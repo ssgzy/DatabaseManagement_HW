@@ -1,0 +1,38 @@
+{
+  "/courses/ratings": {
+    "status_code": 200,
+    "response_time": 2.101,
+    "data_size": 19671,
+    "success": true
+  },
+  "/courses/top-rated": {
+    "status_code": 200,
+    "response_time": 2.071,
+    "data_size": 700,
+    "success": true
+  },
+  "/users/most-active": {
+    "status_code": 200,
+    "response_time": 2.053,
+    "data_size": 643,
+    "success": true
+  },
+  "/ratings/monthly-trend": {
+    "status_code": 200,
+    "response_time": 2.088,
+    "data_size": 3398,
+    "success": true
+  },
+  "/events/stats": {
+    "status_code": 200,
+    "response_time": 2.086,
+    "data_size": 343,
+    "success": true
+  },
+  "/content/course-stats": {
+    "status_code": 200,
+    "response_time": 2.072,
+    "data_size": 14659,
+    "success": true
+  }
+}

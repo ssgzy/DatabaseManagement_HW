@@ -1,0 +1,1817 @@
+content_id,course_id,content_title,duration_seconds,sequence
+CONT00001,C001,Mobile App Development — Lecture 1: Overview,3581,1
+CONT00002,C001,Mobile App Development — Lecture 2: Summary,2681,2
+CONT00003,C001,Mobile App Development — Lecture 3: Overview,805,3
+CONT00004,C001,Mobile App Development — Lecture 4: Deep Dive,3269,4
+CONT00005,C001,Mobile App Development — Lecture 5: Exercise,1589,5
+CONT00006,C001,Mobile App Development — Lecture 6: Deep Dive,3358,6
+CONT00007,C001,Mobile App Development — Lecture 7: Exercise,1375,7
+CONT00008,C002,Financial Accounting — Lecture 1: Overview,2758,1
+CONT00009,C002,Financial Accounting — Lecture 2: Summary,3373,2
+CONT00010,C002,Financial Accounting — Lecture 3: Exercise,1821,3
+CONT00011,C002,Financial Accounting — Lecture 4: Summary,2165,4
+CONT00012,C002,Financial Accounting — Lecture 5: Exercise,2393,5
+CONT00013,C002,Financial Accounting — Lecture 6: Summary,2477,6
+CONT00014,C002,Financial Accounting — Lecture 7: Summary,686,7
+CONT00015,C002,Financial Accounting — Lecture 8: Examples,2840,8
+CONT00016,C002,Financial Accounting — Lecture 9: Exercise,2443,9
+CONT00017,C002,Financial Accounting — Lecture 10: Summary,3150,10
+CONT00018,C003,Microeconomics — Lecture 1: Summary,766,1
+CONT00019,C003,Microeconomics — Lecture 2: Overview,3286,2
+CONT00020,C003,Microeconomics — Lecture 3: Deep Dive,3125,3
+CONT00021,C003,Microeconomics — Lecture 4: Case Study,1801,4
+CONT00022,C003,Microeconomics — Lecture 5: Exercise,844,5
+CONT00023,C003,Microeconomics — Lecture 6: Case Study,2003,6
+CONT00024,C003,Microeconomics — Lecture 7: Examples,827,7
+CONT00025,C003,Microeconomics — Lecture 8: Exercise,925,8
+CONT00026,C003,Microeconomics — Lecture 9: Examples,820,9
+CONT00027,C003,Microeconomics — Lecture 10: Overview,628,10
+CONT00028,C003,Microeconomics — Lecture 11: Examples,1890,11
+CONT00029,C003,Microeconomics — Lecture 12: Deep Dive,874,12
+CONT00030,C004,Deep Learning — Lecture 1: Overview,762,1
+CONT00031,C004,Deep Learning — Lecture 2: Examples,1198,2
+CONT00032,C004,Deep Learning — Lecture 3: Deep Dive,1797,3
+CONT00033,C004,Deep Learning — Lecture 4: Overview,2418,4
+CONT00034,C004,Deep Learning — Lecture 5: Summary,2226,5
+CONT00035,C004,Deep Learning — Lecture 6: Summary,2830,6
+CONT00036,C004,Deep Learning — Lecture 7: Deep Dive,1226,7
+CONT00037,C004,Deep Learning — Lecture 8: Overview,3016,8
+CONT00038,C004,Deep Learning — Lecture 9: Deep Dive,708,9
+CONT00039,C004,Deep Learning — Lecture 10: Summary,2862,10
+CONT00040,C004,Deep Learning — Lecture 11: Examples,2240,11
+CONT00041,C005,Calculus I — Lecture 1: Overview,2309,1
+CONT00042,C005,Calculus I — Lecture 2: Overview,1661,2
+CONT00043,C005,Calculus I — Lecture 3: Overview,1325,3
+CONT00044,C005,Calculus I — Lecture 4: Overview,3121,4
+CONT00045,C005,Calculus I — Lecture 5: Case Study,2784,5
+CONT00046,C005,Calculus I — Lecture 6: Deep Dive,788,6
+CONT00047,C006,Deep Learning — Lecture 1: Summary,2568,1
+CONT00048,C006,Deep Learning — Lecture 2: Case Study,852,2
+CONT00049,C006,Deep Learning — Lecture 3: Examples,359,3
+CONT00050,C006,Deep Learning — Lecture 4: Overview,1597,4
+CONT00051,C006,Deep Learning — Lecture 5: Summary,2556,5
+CONT00052,C006,Deep Learning — Lecture 6: Examples,2740,6
+CONT00053,C006,Deep Learning — Lecture 7: Exercise,2645,7
+CONT00054,C006,Deep Learning — Lecture 8: Overview,1203,8
+CONT00055,C006,Deep Learning — Lecture 9: Case Study,2721,9
+CONT00056,C006,Deep Learning — Lecture 10: Deep Dive,1930,10
+CONT00057,C006,Deep Learning — Lecture 11: Case Study,1706,11
+CONT00058,C006,Deep Learning — Lecture 12: Examples,2795,12
+CONT00059,C007,Project Management — Lecture 1: Overview,1095,1
+CONT00060,C007,Project Management — Lecture 2: Summary,1681,2
+CONT00061,C007,Project Management — Lecture 3: Case Study,350,3
+CONT00062,C007,Project Management — Lecture 4: Exercise,2470,4
+CONT00063,C007,Project Management — Lecture 5: Examples,362,5
+CONT00064,C007,Project Management — Lecture 6: Summary,2200,6
+CONT00065,C007,Project Management — Lecture 7: Deep Dive,746,7
+CONT00066,C007,Project Management — Lecture 8: Exercise,2324,8
+CONT00067,C007,Project Management — Lecture 9: Case Study,2514,9
+CONT00068,C007,Project Management — Lecture 10: Overview,2258,10
+CONT00069,C007,Project Management — Lecture 11: Overview,893,11
+CONT00070,C008,Project Management — Lecture 1: Deep Dive,1556,1
+CONT00071,C008,Project Management — Lecture 2: Deep Dive,2918,2
+CONT00072,C008,Project Management — Lecture 3: Exercise,3465,3
+CONT00073,C008,Project Management — Lecture 4: Examples,2788,4
+CONT00074,C008,Project Management — Lecture 5: Deep Dive,3558,5
+CONT00075,C008,Project Management — Lecture 6: Examples,457,6
+CONT00076,C008,Project Management — Lecture 7: Summary,1695,7
+CONT00077,C008,Project Management — Lecture 8: Case Study,1467,8
+CONT00078,C008,Project Management — Lecture 9: Examples,3376,9
+CONT00079,C008,Project Management — Lecture 10: Case Study,1385,10
+CONT00080,C008,Project Management — Lecture 11: Case Study,859,11
+CONT00081,C008,Project Management — Lecture 12: Case Study,1194,12
+CONT00082,C009,Thermodynamics — Lecture 1: Case Study,1386,1
+CONT00083,C009,Thermodynamics — Lecture 2: Case Study,454,2
+CONT00084,C009,Thermodynamics — Lecture 3: Summary,882,3
+CONT00085,C009,Thermodynamics — Lecture 4: Case Study,3310,4
+CONT00086,C009,Thermodynamics — Lecture 5: Examples,383,5
+CONT00087,C009,Thermodynamics — Lecture 6: Summary,3596,6
+CONT00088,C009,Thermodynamics — Lecture 7: Deep Dive,1690,7
+CONT00089,C009,Thermodynamics — Lecture 8: Case Study,774,8
+CONT00090,C009,Thermodynamics — Lecture 9: Overview,302,9
+CONT00091,C009,Thermodynamics — Lecture 10: Summary,1547,10
+CONT00092,C009,Thermodynamics — Lecture 11: Case Study,2372,11
+CONT00093,C010,Mobile App Development — Lecture 1: Deep Dive,2146,1
+CONT00094,C010,Mobile App Development — Lecture 2: Examples,2332,2
+CONT00095,C010,Mobile App Development — Lecture 3: Overview,2568,3
+CONT00096,C010,Mobile App Development — Lecture 4: Examples,2275,4
+CONT00097,C010,Mobile App Development — Lecture 5: Overview,1913,5
+CONT00098,C010,Mobile App Development — Lecture 6: Overview,2715,6
+CONT00099,C010,Mobile App Development — Lecture 7: Case Study,2875,7
+CONT00100,C010,Mobile App Development — Lecture 8: Deep Dive,2153,8
+CONT00101,C010,Mobile App Development — Lecture 9: Deep Dive,476,9
+CONT00102,C010,Mobile App Development — Lecture 10: Case Study,2399,10
+CONT00103,C011,Photography — Lecture 1: Examples,3103,1
+CONT00104,C011,Photography — Lecture 2: Overview,946,2
+CONT00105,C011,Photography — Lecture 3: Examples,824,3
+CONT00106,C011,Photography — Lecture 4: Summary,2158,4
+CONT00107,C011,Photography — Lecture 5: Summary,2070,5
+CONT00108,C011,Photography — Lecture 6: Overview,2395,6
+CONT00109,C011,Photography — Lecture 7: Case Study,1139,7
+CONT00110,C011,Photography — Lecture 8: Examples,3536,8
+CONT00111,C011,Photography — Lecture 9: Deep Dive,856,9
+CONT00112,C012,Human-Computer Interaction — Lecture 1: Overview,724,1
+CONT00113,C012,Human-Computer Interaction — Lecture 2: Examples,912,2
+CONT00114,C012,Human-Computer Interaction — Lecture 3: Examples,729,3
+CONT00115,C012,Human-Computer Interaction — Lecture 4: Summary,2588,4
+CONT00116,C012,Human-Computer Interaction — Lecture 5: Examples,675,5
+CONT00117,C012,Human-Computer Interaction — Lecture 6: Overview,965,6
+CONT00118,C012,Human-Computer Interaction — Lecture 7: Case Study,3501,7
+CONT00119,C012,Human-Computer Interaction — Lecture 8: Examples,1421,8
+CONT00120,C012,Human-Computer Interaction — Lecture 9: Summary,1103,9
+CONT00121,C013,Human-Computer Interaction — Lecture 1: Case Study,1633,1
+CONT00122,C013,Human-Computer Interaction — Lecture 2: Examples,1824,2
+CONT00123,C013,Human-Computer Interaction — Lecture 3: Examples,3144,3
+CONT00124,C013,Human-Computer Interaction — Lecture 4: Examples,1443,4
+CONT00125,C013,Human-Computer Interaction — Lecture 5: Summary,768,5
+CONT00126,C013,Human-Computer Interaction — Lecture 6: Exercise,3214,6
+CONT00127,C014,Graphic Design — Lecture 1: Deep Dive,1626,1
+CONT00128,C014,Graphic Design — Lecture 2: Exercise,742,2
+CONT00129,C014,Graphic Design — Lecture 3: Overview,826,3
+CONT00130,C014,Graphic Design — Lecture 4: Deep Dive,2366,4
+CONT00131,C014,Graphic Design — Lecture 5: Examples,830,5
+CONT00132,C014,Graphic Design — Lecture 6: Deep Dive,936,6
+CONT00133,C014,Graphic Design — Lecture 7: Examples,2455,7
+CONT00134,C014,Graphic Design — Lecture 8: Case Study,3236,8
+CONT00135,C014,Graphic Design — Lecture 9: Case Study,2577,9
+CONT00136,C014,Graphic Design — Lecture 10: Case Study,3255,10
+CONT00137,C014,Graphic Design — Lecture 11: Examples,3516,11
+CONT00138,C014,Graphic Design — Lecture 12: Exercise,3420,12
+CONT00139,C015,Mobile App Development — Lecture 1: Exercise,2611,1
+CONT00140,C015,Mobile App Development — Lecture 2: Examples,3335,2
+CONT00141,C015,Mobile App Development — Lecture 3: Deep Dive,2084,3
+CONT00142,C015,Mobile App Development — Lecture 4: Exercise,959,4
+CONT00143,C015,Mobile App Development — Lecture 5: Deep Dive,1722,5
+CONT00144,C015,Mobile App Development — Lecture 6: Exercise,1374,6
+CONT00145,C015,Mobile App Development — Lecture 7: Case Study,2156,7
+CONT00146,C015,Mobile App Development — Lecture 8: Case Study,2952,8
+CONT00147,C016,Thermodynamics — Lecture 1: Summary,1662,1
+CONT00148,C016,Thermodynamics — Lecture 2: Deep Dive,2920,2
+CONT00149,C016,Thermodynamics — Lecture 3: Case Study,1224,3
+CONT00150,C016,Thermodynamics — Lecture 4: Examples,513,4
+CONT00151,C016,Thermodynamics — Lecture 5: Deep Dive,3472,5
+CONT00152,C016,Thermodynamics — Lecture 6: Case Study,2045,6
+CONT00153,C017,Digital Marketing — Lecture 1: Exercise,3162,1
+CONT00154,C017,Digital Marketing — Lecture 2: Examples,813,2
+CONT00155,C017,Digital Marketing — Lecture 3: Exercise,2625,3
+CONT00156,C017,Digital Marketing — Lecture 4: Examples,1327,4
+CONT00157,C017,Digital Marketing — Lecture 5: Exercise,1921,5
+CONT00158,C017,Digital Marketing — Lecture 6: Examples,2452,6
+CONT00159,C017,Digital Marketing — Lecture 7: Overview,2631,7
+CONT00160,C017,Digital Marketing — Lecture 8: Overview,319,8
+CONT00161,C018,Digital Marketing — Lecture 1: Deep Dive,333,1
+CONT00162,C018,Digital Marketing — Lecture 2: Summary,1864,2
+CONT00163,C018,Digital Marketing — Lecture 3: Case Study,2478,3
+CONT00164,C018,Digital Marketing — Lecture 4: Summary,534,4
+CONT00165,C018,Digital Marketing — Lecture 5: Case Study,483,5
+CONT00166,C018,Digital Marketing — Lecture 6: Overview,1047,6
+CONT00167,C018,Digital Marketing — Lecture 7: Deep Dive,2598,7
+CONT00168,C018,Digital Marketing — Lecture 8: Exercise,2975,8
+CONT00169,C019,Machine Learning — Lecture 1: Overview,3289,1
+CONT00170,C019,Machine Learning — Lecture 2: Case Study,3103,2
+CONT00171,C019,Machine Learning — Lecture 3: Examples,2276,3
+CONT00172,C019,Machine Learning — Lecture 4: Deep Dive,475,4
+CONT00173,C019,Machine Learning — Lecture 5: Case Study,2210,5
+CONT00174,C019,Machine Learning — Lecture 6: Overview,1556,6
+CONT00175,C019,Machine Learning — Lecture 7: Summary,839,7
+CONT00176,C019,Machine Learning — Lecture 8: Overview,375,8
+CONT00177,C019,Machine Learning — Lecture 9: Case Study,3059,9
+CONT00178,C019,Machine Learning — Lecture 10: Overview,3129,10
+CONT00179,C020,Web Development — Lecture 1: Deep Dive,1870,1
+CONT00180,C020,Web Development — Lecture 2: Deep Dive,916,2
+CONT00181,C020,Web Development — Lecture 3: Overview,3441,3
+CONT00182,C020,Web Development — Lecture 4: Case Study,2181,4
+CONT00183,C020,Web Development — Lecture 5: Case Study,870,5
+CONT00184,C020,Web Development — Lecture 6: Summary,1626,6
+CONT00185,C020,Web Development — Lecture 7: Examples,3371,7
+CONT00186,C020,Web Development — Lecture 8: Overview,3024,8
+CONT00187,C021,World History — Lecture 1: Summary,2346,1
+CONT00188,C021,World History — Lecture 2: Deep Dive,1783,2
+CONT00189,C021,World History — Lecture 3: Overview,2092,3
+CONT00190,C021,World History — Lecture 4: Exercise,723,4
+CONT00191,C021,World History — Lecture 5: Overview,3137,5
+CONT00192,C021,World History — Lecture 6: Exercise,2444,6
+CONT00193,C021,World History — Lecture 7: Summary,2831,7
+CONT00194,C021,World History — Lecture 8: Overview,2012,8
+CONT00195,C021,World History — Lecture 9: Exercise,2354,9
+CONT00196,C022,Microeconomics — Lecture 1: Deep Dive,1832,1
+CONT00197,C022,Microeconomics — Lecture 2: Exercise,3373,2
+CONT00198,C022,Microeconomics — Lecture 3: Case Study,1825,3
+CONT00199,C022,Microeconomics — Lecture 4: Exercise,1665,4
+CONT00200,C022,Microeconomics — Lecture 5: Exercise,739,5
+CONT00201,C022,Microeconomics — Lecture 6: Case Study,1803,6
+CONT00202,C022,Microeconomics — Lecture 7: Examples,3349,7
+CONT00203,C023,Algorithms — Lecture 1: Overview,587,1
+CONT00204,C023,Algorithms — Lecture 2: Examples,2469,2
+CONT00205,C023,Algorithms — Lecture 3: Exercise,2398,3
+CONT00206,C023,Algorithms — Lecture 4: Overview,2823,4
+CONT00207,C023,Algorithms — Lecture 5: Exercise,2841,5
+CONT00208,C023,Algorithms — Lecture 6: Deep Dive,2310,6
+CONT00209,C023,Algorithms — Lecture 7: Deep Dive,926,7
+CONT00210,C023,Algorithms — Lecture 8: Examples,1600,8
+CONT00211,C023,Algorithms — Lecture 9: Case Study,2558,9
+CONT00212,C023,Algorithms — Lecture 10: Examples,735,10
+CONT00213,C023,Algorithms — Lecture 11: Examples,1015,11
+CONT00214,C024,Deep Learning — Lecture 1: Examples,1308,1
+CONT00215,C024,Deep Learning — Lecture 2: Deep Dive,520,2
+CONT00216,C024,Deep Learning — Lecture 3: Overview,1725,3
+CONT00217,C024,Deep Learning — Lecture 4: Case Study,3098,4
+CONT00218,C024,Deep Learning — Lecture 5: Examples,984,5
+CONT00219,C024,Deep Learning — Lecture 6: Deep Dive,2630,6
+CONT00220,C024,Deep Learning — Lecture 7: Examples,1070,7
+CONT00221,C025,Macroeconomics — Lecture 1: Summary,3076,1
+CONT00222,C025,Macroeconomics — Lecture 2: Exercise,2006,2
+CONT00223,C025,Macroeconomics — Lecture 3: Summary,1694,3
+CONT00224,C025,Macroeconomics — Lecture 4: Overview,3297,4
+CONT00225,C025,Macroeconomics — Lecture 5: Overview,1832,5
+CONT00226,C025,Macroeconomics — Lecture 6: Summary,2147,6
+CONT00227,C025,Macroeconomics — Lecture 7: Deep Dive,862,7
+CONT00228,C026,Macroeconomics — Lecture 1: Deep Dive,2998,1
+CONT00229,C026,Macroeconomics — Lecture 2: Case Study,1977,2
+CONT00230,C026,Macroeconomics — Lecture 3: Summary,3543,3
+CONT00231,C026,Macroeconomics — Lecture 4: Case Study,406,4
+CONT00232,C026,Macroeconomics — Lecture 5: Deep Dive,398,5
+CONT00233,C026,Macroeconomics — Lecture 6: Deep Dive,323,6
+CONT00234,C027,Digital Marketing — Lecture 1: Summary,966,1
+CONT00235,C027,Digital Marketing — Lecture 2: Summary,2306,2
+CONT00236,C027,Digital Marketing — Lecture 3: Case Study,1677,3
+CONT00237,C027,Digital Marketing — Lecture 4: Overview,2306,4
+CONT00238,C027,Digital Marketing — Lecture 5: Exercise,3393,5
+CONT00239,C027,Digital Marketing — Lecture 6: Case Study,792,6
+CONT00240,C027,Digital Marketing — Lecture 7: Exercise,2855,7
+CONT00241,C027,Digital Marketing — Lecture 8: Case Study,3071,8
+CONT00242,C027,Digital Marketing — Lecture 9: Exercise,1439,9
+CONT00243,C027,Digital Marketing — Lecture 10: Exercise,1718,10
+CONT00244,C027,Digital Marketing — Lecture 11: Exercise,3054,11
+CONT00245,C027,Digital Marketing — Lecture 12: Examples,2659,12
+CONT00246,C028,Project Management — Lecture 1: Examples,3588,1
+CONT00247,C028,Project Management — Lecture 2: Overview,2790,2
+CONT00248,C028,Project Management — Lecture 3: Examples,2742,3
+CONT00249,C028,Project Management — Lecture 4: Deep Dive,639,4
+CONT00250,C028,Project Management — Lecture 5: Summary,2304,5
+CONT00251,C028,Project Management — Lecture 6: Case Study,3453,6
+CONT00252,C028,Project Management — Lecture 7: Overview,3538,7
+CONT00253,C028,Project Management — Lecture 8: Deep Dive,3248,8
+CONT00254,C029,French Basics — Lecture 1: Summary,1831,1
+CONT00255,C029,French Basics — Lecture 2: Deep Dive,758,2
+CONT00256,C029,French Basics — Lecture 3: Case Study,1329,3
+CONT00257,C029,French Basics — Lecture 4: Examples,1422,4
+CONT00258,C029,French Basics — Lecture 5: Summary,622,5
+CONT00259,C029,French Basics — Lecture 6: Deep Dive,2795,6
+CONT00260,C029,French Basics — Lecture 7: Overview,1019,7
+CONT00261,C029,French Basics — Lecture 8: Overview,2719,8
+CONT00262,C029,French Basics — Lecture 9: Examples,725,9
+CONT00263,C029,French Basics — Lecture 10: Case Study,3230,10
+CONT00264,C029,French Basics — Lecture 11: Exercise,2625,11
+CONT00265,C030,English Literature — Lecture 1: Overview,2395,1
+CONT00266,C030,English Literature — Lecture 2: Deep Dive,516,2
+CONT00267,C030,English Literature — Lecture 3: Summary,2785,3
+CONT00268,C030,English Literature — Lecture 4: Exercise,1579,4
+CONT00269,C030,English Literature — Lecture 5: Deep Dive,2360,5
+CONT00270,C030,English Literature — Lecture 6: Case Study,2809,6
+CONT00271,C031,Statistics — Lecture 1: Deep Dive,2411,1
+CONT00272,C031,Statistics — Lecture 2: Exercise,871,2
+CONT00273,C031,Statistics — Lecture 3: Case Study,2385,3
+CONT00274,C031,Statistics — Lecture 4: Exercise,3023,4
+CONT00275,C031,Statistics — Lecture 5: Summary,1863,5
+CONT00276,C031,Statistics — Lecture 6: Deep Dive,473,6
+CONT00277,C032,Game Design — Lecture 1: Overview,1158,1
+CONT00278,C032,Game Design — Lecture 2: Examples,1344,2
+CONT00279,C032,Game Design — Lecture 3: Case Study,992,3
+CONT00280,C032,Game Design — Lecture 4: Case Study,3316,4
+CONT00281,C032,Game Design — Lecture 5: Overview,1900,5
+CONT00282,C032,Game Design — Lecture 6: Deep Dive,3116,6
+CONT00283,C032,Game Design — Lecture 7: Overview,2120,7
+CONT00284,C033,Cloud Computing — Lecture 1: Overview,1297,1
+CONT00285,C033,Cloud Computing — Lecture 2: Examples,2416,2
+CONT00286,C033,Cloud Computing — Lecture 3: Overview,1565,3
+CONT00287,C033,Cloud Computing — Lecture 4: Exercise,889,4
+CONT00288,C033,Cloud Computing — Lecture 5: Examples,3292,5
+CONT00289,C033,Cloud Computing — Lecture 6: Examples,900,6
+CONT00290,C034,Cybersecurity Basics — Lecture 1: Overview,1948,1
+CONT00291,C034,Cybersecurity Basics — Lecture 2: Summary,3197,2
+CONT00292,C034,Cybersecurity Basics — Lecture 3: Examples,3385,3
+CONT00293,C034,Cybersecurity Basics — Lecture 4: Case Study,3064,4
+CONT00294,C034,Cybersecurity Basics — Lecture 5: Examples,3165,5
+CONT00295,C034,Cybersecurity Basics — Lecture 6: Deep Dive,3556,6
+CONT00296,C034,Cybersecurity Basics — Lecture 7: Deep Dive,2473,7
+CONT00297,C034,Cybersecurity Basics — Lecture 8: Case Study,1886,8
+CONT00298,C034,Cybersecurity Basics — Lecture 9: Examples,610,9
+CONT00299,C034,Cybersecurity Basics — Lecture 10: Overview,3566,10
+CONT00300,C034,Cybersecurity Basics — Lecture 11: Summary,3087,11
+CONT00301,C034,Cybersecurity Basics — Lecture 12: Examples,572,12
+CONT00302,C035,Digital Marketing — Lecture 1: Deep Dive,2250,1
+CONT00303,C035,Digital Marketing — Lecture 2: Overview,334,2
+CONT00304,C035,Digital Marketing — Lecture 3: Summary,321,3
+CONT00305,C035,Digital Marketing — Lecture 4: Case Study,1186,4
+CONT00306,C035,Digital Marketing — Lecture 5: Overview,835,5
+CONT00307,C035,Digital Marketing — Lecture 6: Overview,3564,6
+CONT00308,C035,Digital Marketing — Lecture 7: Summary,457,7
+CONT00309,C035,Digital Marketing — Lecture 8: Examples,758,8
+CONT00310,C035,Digital Marketing — Lecture 9: Overview,3394,9
+CONT00311,C035,Digital Marketing — Lecture 10: Examples,3024,10
+CONT00312,C035,Digital Marketing — Lecture 11: Exercise,825,11
+CONT00313,C036,Algorithms — Lecture 1: Summary,2125,1
+CONT00314,C036,Algorithms — Lecture 2: Deep Dive,1784,2
+CONT00315,C036,Algorithms — Lecture 3: Deep Dive,1927,3
+CONT00316,C036,Algorithms — Lecture 4: Deep Dive,3000,4
+CONT00317,C036,Algorithms — Lecture 5: Examples,1090,5
+CONT00318,C036,Algorithms — Lecture 6: Case Study,1240,6
+CONT00319,C036,Algorithms — Lecture 7: Overview,2503,7
+CONT00320,C036,Algorithms — Lecture 8: Deep Dive,3557,8
+CONT00321,C036,Algorithms — Lecture 9: Overview,2134,9
+CONT00322,C036,Algorithms — Lecture 10: Case Study,1895,10
+CONT00323,C036,Algorithms — Lecture 11: Deep Dive,513,11
+CONT00324,C037,Digital Marketing — Lecture 1: Deep Dive,3577,1
+CONT00325,C037,Digital Marketing — Lecture 2: Overview,2400,2
+CONT00326,C037,Digital Marketing — Lecture 3: Overview,2240,3
+CONT00327,C037,Digital Marketing — Lecture 4: Case Study,2005,4
+CONT00328,C037,Digital Marketing — Lecture 5: Overview,2796,5
+CONT00329,C037,Digital Marketing — Lecture 6: Exercise,2249,6
+CONT00330,C038,French Basics — Lecture 1: Deep Dive,2123,1
+CONT00331,C038,French Basics — Lecture 2: Deep Dive,2764,2
+CONT00332,C038,French Basics — Lecture 3: Case Study,1395,3
+CONT00333,C038,French Basics — Lecture 4: Overview,1140,4
+CONT00334,C038,French Basics — Lecture 5: Deep Dive,3237,5
+CONT00335,C038,French Basics — Lecture 6: Case Study,1736,6
+CONT00336,C038,French Basics — Lecture 7: Examples,2765,7
+CONT00337,C038,French Basics — Lecture 8: Summary,2351,8
+CONT00338,C038,French Basics — Lecture 9: Overview,1808,9
+CONT00339,C038,French Basics — Lecture 10: Deep Dive,3191,10
+CONT00340,C038,French Basics — Lecture 11: Overview,3144,11
+CONT00341,C039,NLP Fundamentals — Lecture 1: Case Study,2040,1
+CONT00342,C039,NLP Fundamentals — Lecture 2: Overview,1222,2
+CONT00343,C039,NLP Fundamentals — Lecture 3: Case Study,2691,3
+CONT00344,C039,NLP Fundamentals — Lecture 4: Exercise,2182,4
+CONT00345,C039,NLP Fundamentals — Lecture 5: Case Study,945,5
+CONT00346,C039,NLP Fundamentals — Lecture 6: Exercise,2564,6
+CONT00347,C039,NLP Fundamentals — Lecture 7: Case Study,424,7
+CONT00348,C039,NLP Fundamentals — Lecture 8: Exercise,3500,8
+CONT00349,C039,NLP Fundamentals — Lecture 9: Summary,1271,9
+CONT00350,C039,NLP Fundamentals — Lecture 10: Overview,1027,10
+CONT00351,C040,Calculus I — Lecture 1: Overview,872,1
+CONT00352,C040,Calculus I — Lecture 2: Overview,2184,2
+CONT00353,C040,Calculus I — Lecture 3: Summary,1969,3
+CONT00354,C040,Calculus I — Lecture 4: Deep Dive,2326,4
+CONT00355,C040,Calculus I — Lecture 5: Summary,1470,5
+CONT00356,C040,Calculus I — Lecture 6: Examples,2976,6
+CONT00357,C040,Calculus I — Lecture 7: Deep Dive,823,7
+CONT00358,C040,Calculus I — Lecture 8: Deep Dive,688,8
+CONT00359,C040,Calculus I — Lecture 9: Summary,1724,9
+CONT00360,C040,Calculus I — Lecture 10: Case Study,2096,10
+CONT00361,C041,Entrepreneurship — Lecture 1: Case Study,1585,1
+CONT00362,C041,Entrepreneurship — Lecture 2: Exercise,2391,2
+CONT00363,C041,Entrepreneurship — Lecture 3: Case Study,2852,3
+CONT00364,C041,Entrepreneurship — Lecture 4: Exercise,356,4
+CONT00365,C041,Entrepreneurship — Lecture 5: Case Study,3122,5
+CONT00366,C041,Entrepreneurship — Lecture 6: Exercise,2622,6
+CONT00367,C041,Entrepreneurship — Lecture 7: Overview,1700,7
+CONT00368,C042,Digital Marketing — Lecture 1: Overview,462,1
+CONT00369,C042,Digital Marketing — Lecture 2: Deep Dive,1813,2
+CONT00370,C042,Digital Marketing — Lecture 3: Case Study,1214,3
+CONT00371,C042,Digital Marketing — Lecture 4: Deep Dive,2787,4
+CONT00372,C042,Digital Marketing — Lecture 5: Exercise,359,5
+CONT00373,C042,Digital Marketing — Lecture 6: Examples,411,6
+CONT00374,C042,Digital Marketing — Lecture 7: Exercise,1675,7
+CONT00375,C042,Digital Marketing — Lecture 8: Case Study,1896,8
+CONT00376,C042,Digital Marketing — Lecture 9: Deep Dive,976,9
+CONT00377,C042,Digital Marketing — Lecture 10: Exercise,877,10
+CONT00378,C043,French Basics — Lecture 1: Deep Dive,568,1
+CONT00379,C043,French Basics — Lecture 2: Overview,3500,2
+CONT00380,C043,French Basics — Lecture 3: Exercise,2393,3
+CONT00381,C043,French Basics — Lecture 4: Deep Dive,746,4
+CONT00382,C043,French Basics — Lecture 5: Summary,586,5
+CONT00383,C043,French Basics — Lecture 6: Case Study,1369,6
+CONT00384,C043,French Basics — Lecture 7: Deep Dive,1752,7
+CONT00385,C043,French Basics — Lecture 8: Case Study,2360,8
+CONT00386,C043,French Basics — Lecture 9: Examples,3390,9
+CONT00387,C044,Machine Learning — Lecture 1: Examples,2580,1
+CONT00388,C044,Machine Learning — Lecture 2: Deep Dive,2689,2
+CONT00389,C044,Machine Learning — Lecture 3: Overview,1348,3
+CONT00390,C044,Machine Learning — Lecture 4: Overview,2311,4
+CONT00391,C044,Machine Learning — Lecture 5: Examples,3215,5
+CONT00392,C044,Machine Learning — Lecture 6: Examples,385,6
+CONT00393,C045,Web Development — Lecture 1: Overview,1332,1
+CONT00394,C045,Web Development — Lecture 2: Exercise,487,2
+CONT00395,C045,Web Development — Lecture 3: Exercise,2025,3
+CONT00396,C045,Web Development — Lecture 4: Deep Dive,1086,4
+CONT00397,C045,Web Development — Lecture 5: Summary,2349,5
+CONT00398,C045,Web Development — Lecture 6: Summary,1386,6
+CONT00399,C045,Web Development — Lecture 7: Summary,2830,7
+CONT00400,C045,Web Development — Lecture 8: Examples,1197,8
+CONT00401,C046,Human-Computer Interaction — Lecture 1: Summary,2886,1
+CONT00402,C046,Human-Computer Interaction — Lecture 2: Overview,2976,2
+CONT00403,C046,Human-Computer Interaction — Lecture 3: Examples,2041,3
+CONT00404,C046,Human-Computer Interaction — Lecture 4: Deep Dive,2703,4
+CONT00405,C046,Human-Computer Interaction — Lecture 5: Overview,1391,5
+CONT00406,C046,Human-Computer Interaction — Lecture 6: Examples,2889,6
+CONT00407,C046,Human-Computer Interaction — Lecture 7: Exercise,2478,7
+CONT00408,C046,Human-Computer Interaction — Lecture 8: Examples,1187,8
+CONT00409,C047,Thermodynamics — Lecture 1: Overview,1713,1
+CONT00410,C047,Thermodynamics — Lecture 2: Exercise,2919,2
+CONT00411,C047,Thermodynamics — Lecture 3: Deep Dive,1963,3
+CONT00412,C047,Thermodynamics — Lecture 4: Summary,527,4
+CONT00413,C047,Thermodynamics — Lecture 5: Exercise,1793,5
+CONT00414,C047,Thermodynamics — Lecture 6: Summary,3022,6
+CONT00415,C047,Thermodynamics — Lecture 7: Case Study,608,7
+CONT00416,C047,Thermodynamics — Lecture 8: Overview,2753,8
+CONT00417,C047,Thermodynamics — Lecture 9: Deep Dive,1374,9
+CONT00418,C047,Thermodynamics — Lecture 10: Overview,3592,10
+CONT00419,C047,Thermodynamics — Lecture 11: Exercise,1504,11
+CONT00420,C048,Cloud Computing — Lecture 1: Summary,894,1
+CONT00421,C048,Cloud Computing — Lecture 2: Overview,2130,2
+CONT00422,C048,Cloud Computing — Lecture 3: Case Study,920,3
+CONT00423,C048,Cloud Computing — Lecture 4: Summary,3399,4
+CONT00424,C048,Cloud Computing — Lecture 5: Examples,3093,5
+CONT00425,C048,Cloud Computing — Lecture 6: Deep Dive,3287,6
+CONT00426,C048,Cloud Computing — Lecture 7: Summary,2268,7
+CONT00427,C048,Cloud Computing — Lecture 8: Exercise,3062,8
+CONT00428,C048,Cloud Computing — Lecture 9: Overview,2255,9
+CONT00429,C049,Web Development — Lecture 1: Summary,668,1
+CONT00430,C049,Web Development — Lecture 2: Examples,3342,2
+CONT00431,C049,Web Development — Lecture 3: Exercise,384,3
+CONT00432,C049,Web Development — Lecture 4: Overview,1656,4
+CONT00433,C049,Web Development — Lecture 5: Exercise,1597,5
+CONT00434,C049,Web Development — Lecture 6: Overview,3439,6
+CONT00435,C049,Web Development — Lecture 7: Exercise,2307,7
+CONT00436,C049,Web Development — Lecture 8: Exercise,824,8
+CONT00437,C049,Web Development — Lecture 9: Exercise,3469,9
+CONT00438,C049,Web Development — Lecture 10: Overview,553,10
+CONT00439,C050,Artificial Intelligence — Lecture 1: Summary,2369,1
+CONT00440,C050,Artificial Intelligence — Lecture 2: Examples,3422,2
+CONT00441,C050,Artificial Intelligence — Lecture 3: Examples,1148,3
+CONT00442,C050,Artificial Intelligence — Lecture 4: Deep Dive,3281,4
+CONT00443,C050,Artificial Intelligence — Lecture 5: Exercise,2711,5
+CONT00444,C050,Artificial Intelligence — Lecture 6: Case Study,584,6
+CONT00445,C050,Artificial Intelligence — Lecture 7: Overview,2623,7
+CONT00446,C050,Artificial Intelligence — Lecture 8: Summary,2602,8
+CONT00447,C051,Marketing 101 — Lecture 1: Case Study,646,1
+CONT00448,C051,Marketing 101 — Lecture 2: Deep Dive,2732,2
+CONT00449,C051,Marketing 101 — Lecture 3: Examples,303,3
+CONT00450,C051,Marketing 101 — Lecture 4: Case Study,1423,4
+CONT00451,C051,Marketing 101 — Lecture 5: Deep Dive,1000,5
+CONT00452,C051,Marketing 101 — Lecture 6: Overview,2739,6
+CONT00453,C051,Marketing 101 — Lecture 7: Overview,3312,7
+CONT00454,C052,Databases — Lecture 1: Case Study,1267,1
+CONT00455,C052,Databases — Lecture 2: Summary,1259,2
+CONT00456,C052,Databases — Lecture 3: Case Study,2810,3
+CONT00457,C052,Databases — Lecture 4: Overview,1279,4
+CONT00458,C052,Databases — Lecture 5: Summary,2253,5
+CONT00459,C052,Databases — Lecture 6: Case Study,526,6
+CONT00460,C052,Databases — Lecture 7: Exercise,1721,7
+CONT00461,C052,Databases — Lecture 8: Deep Dive,2360,8
+CONT00462,C052,Databases — Lecture 9: Summary,1377,9
+CONT00463,C052,Databases — Lecture 10: Examples,2003,10
+CONT00464,C052,Databases — Lecture 11: Deep Dive,2494,11
+CONT00465,C052,Databases — Lecture 12: Case Study,3300,12
+CONT00466,C053,Calculus II — Lecture 1: Overview,809,1
+CONT00467,C053,Calculus II — Lecture 2: Deep Dive,1117,2
+CONT00468,C053,Calculus II — Lecture 3: Summary,1556,3
+CONT00469,C053,Calculus II — Lecture 4: Overview,2081,4
+CONT00470,C053,Calculus II — Lecture 5: Overview,1384,5
+CONT00471,C053,Calculus II — Lecture 6: Examples,3599,6
+CONT00472,C053,Calculus II — Lecture 7: Deep Dive,3136,7
+CONT00473,C053,Calculus II — Lecture 8: Summary,1864,8
+CONT00474,C053,Calculus II — Lecture 9: Exercise,1936,9
+CONT00475,C053,Calculus II — Lecture 10: Examples,3515,10
+CONT00476,C053,Calculus II — Lecture 11: Deep Dive,2413,11
+CONT00477,C054,Game Design — Lecture 1: Deep Dive,360,1
+CONT00478,C054,Game Design — Lecture 2: Overview,509,2
+CONT00479,C054,Game Design — Lecture 3: Summary,3458,3
+CONT00480,C054,Game Design — Lecture 4: Case Study,1866,4
+CONT00481,C054,Game Design — Lecture 5: Summary,2126,5
+CONT00482,C054,Game Design — Lecture 6: Exercise,3338,6
+CONT00483,C054,Game Design — Lecture 7: Deep Dive,1656,7
+CONT00484,C054,Game Design — Lecture 8: Examples,441,8
+CONT00485,C054,Game Design — Lecture 9: Summary,2386,9
+CONT00486,C054,Game Design — Lecture 10: Deep Dive,3138,10
+CONT00487,C054,Game Design — Lecture 11: Case Study,2645,11
+CONT00488,C054,Game Design — Lecture 12: Overview,1991,12
+CONT00489,C055,Financial Accounting — Lecture 1: Overview,352,1
+CONT00490,C055,Financial Accounting — Lecture 2: Exercise,1300,2
+CONT00491,C055,Financial Accounting — Lecture 3: Overview,2440,3
+CONT00492,C055,Financial Accounting — Lecture 4: Overview,2540,4
+CONT00493,C055,Financial Accounting — Lecture 5: Exercise,597,5
+CONT00494,C055,Financial Accounting — Lecture 6: Exercise,1552,6
+CONT00495,C055,Financial Accounting — Lecture 7: Summary,2880,7
+CONT00496,C055,Financial Accounting — Lecture 8: Summary,2076,8
+CONT00497,C055,Financial Accounting — Lecture 9: Overview,977,9
+CONT00498,C056,Photography — Lecture 1: Overview,1327,1
+CONT00499,C056,Photography — Lecture 2: Case Study,2615,2
+CONT00500,C056,Photography — Lecture 3: Case Study,384,3
+CONT00501,C056,Photography — Lecture 4: Exercise,2850,4
+CONT00502,C056,Photography — Lecture 5: Overview,1419,5
+CONT00503,C056,Photography — Lecture 6: Examples,1337,6
+CONT00504,C056,Photography — Lecture 7: Exercise,1884,7
+CONT00505,C056,Photography — Lecture 8: Examples,2377,8
+CONT00506,C056,Photography — Lecture 9: Case Study,783,9
+CONT00507,C056,Photography — Lecture 10: Summary,1583,10
+CONT00508,C057,Cell Biology — Lecture 1: Case Study,3114,1
+CONT00509,C057,Cell Biology — Lecture 2: Deep Dive,1573,2
+CONT00510,C057,Cell Biology — Lecture 3: Exercise,1591,3
+CONT00511,C057,Cell Biology — Lecture 4: Deep Dive,901,4
+CONT00512,C057,Cell Biology — Lecture 5: Deep Dive,543,5
+CONT00513,C057,Cell Biology — Lecture 6: Summary,2549,6
+CONT00514,C057,Cell Biology — Lecture 7: Deep Dive,2125,7
+CONT00515,C057,Cell Biology — Lecture 8: Summary,2116,8
+CONT00516,C057,Cell Biology — Lecture 9: Deep Dive,1016,9
+CONT00517,C057,Cell Biology — Lecture 10: Summary,1127,10
+CONT00518,C057,Cell Biology — Lecture 11: Case Study,1197,11
+CONT00519,C057,Cell Biology — Lecture 12: Overview,3021,12
+CONT00520,C058,Calculus I — Lecture 1: Exercise,1146,1
+CONT00521,C058,Calculus I — Lecture 2: Examples,468,2
+CONT00522,C058,Calculus I — Lecture 3: Deep Dive,800,3
+CONT00523,C058,Calculus I — Lecture 4: Summary,2489,4
+CONT00524,C058,Calculus I — Lecture 5: Exercise,2191,5
+CONT00525,C058,Calculus I — Lecture 6: Deep Dive,1927,6
+CONT00526,C058,Calculus I — Lecture 7: Case Study,539,7
+CONT00527,C058,Calculus I — Lecture 8: Overview,3425,8
+CONT00528,C058,Calculus I — Lecture 9: Exercise,2185,9
+CONT00529,C058,Calculus I — Lecture 10: Deep Dive,3342,10
+CONT00530,C058,Calculus I — Lecture 11: Overview,1275,11
+CONT00531,C059,Data Structures — Lecture 1: Case Study,2472,1
+CONT00532,C059,Data Structures — Lecture 2: Summary,304,2
+CONT00533,C059,Data Structures — Lecture 3: Case Study,3179,3
+CONT00534,C059,Data Structures — Lecture 4: Summary,458,4
+CONT00535,C059,Data Structures — Lecture 5: Case Study,3563,5
+CONT00536,C059,Data Structures — Lecture 6: Deep Dive,2279,6
+CONT00537,C059,Data Structures — Lecture 7: Overview,2106,7
+CONT00538,C059,Data Structures — Lecture 8: Exercise,1084,8
+CONT00539,C059,Data Structures — Lecture 9: Deep Dive,2496,9
+CONT00540,C060,Cloud Computing — Lecture 1: Summary,1287,1
+CONT00541,C060,Cloud Computing — Lecture 2: Exercise,1929,2
+CONT00542,C060,Cloud Computing — Lecture 3: Exercise,2783,3
+CONT00543,C060,Cloud Computing — Lecture 4: Summary,2068,4
+CONT00544,C060,Cloud Computing — Lecture 5: Overview,2534,5
+CONT00545,C060,Cloud Computing — Lecture 6: Case Study,1215,6
+CONT00546,C060,Cloud Computing — Lecture 7: Overview,760,7
+CONT00547,C060,Cloud Computing — Lecture 8: Examples,3578,8
+CONT00548,C060,Cloud Computing — Lecture 9: Deep Dive,342,9
+CONT00549,C060,Cloud Computing — Lecture 10: Overview,437,10
+CONT00550,C060,Cloud Computing — Lecture 11: Summary,3391,11
+CONT00551,C061,Digital Marketing — Lecture 1: Overview,1725,1
+CONT00552,C061,Digital Marketing — Lecture 2: Overview,962,2
+CONT00553,C061,Digital Marketing — Lecture 3: Overview,2015,3
+CONT00554,C061,Digital Marketing — Lecture 4: Examples,3483,4
+CONT00555,C061,Digital Marketing — Lecture 5: Case Study,1782,5
+CONT00556,C061,Digital Marketing — Lecture 6: Case Study,928,6
+CONT00557,C061,Digital Marketing — Lecture 7: Examples,2729,7
+CONT00558,C061,Digital Marketing — Lecture 8: Deep Dive,3593,8
+CONT00559,C061,Digital Marketing — Lecture 9: Examples,930,9
+CONT00560,C061,Digital Marketing — Lecture 10: Case Study,365,10
+CONT00561,C061,Digital Marketing — Lecture 11: Deep Dive,3416,11
+CONT00562,C062,Data Structures — Lecture 1: Overview,1219,1
+CONT00563,C062,Data Structures — Lecture 2: Exercise,3057,2
+CONT00564,C062,Data Structures — Lecture 3: Examples,3248,3
+CONT00565,C062,Data Structures — Lecture 4: Examples,2632,4
+CONT00566,C062,Data Structures — Lecture 5: Overview,1432,5
+CONT00567,C062,Data Structures — Lecture 6: Overview,2320,6
+CONT00568,C062,Data Structures — Lecture 7: Summary,1882,7
+CONT00569,C062,Data Structures — Lecture 8: Exercise,2162,8
+CONT00570,C062,Data Structures — Lecture 9: Exercise,962,9
+CONT00571,C063,Entrepreneurship — Lecture 1: Summary,3452,1
+CONT00572,C063,Entrepreneurship — Lecture 2: Examples,688,2
+CONT00573,C063,Entrepreneurship — Lecture 3: Case Study,1531,3
+CONT00574,C063,Entrepreneurship — Lecture 4: Case Study,910,4
+CONT00575,C063,Entrepreneurship — Lecture 5: Exercise,2540,5
+CONT00576,C063,Entrepreneurship — Lecture 6: Case Study,1334,6
+CONT00577,C063,Entrepreneurship — Lecture 7: Examples,2735,7
+CONT00578,C063,Entrepreneurship — Lecture 8: Overview,305,8
+CONT00579,C063,Entrepreneurship — Lecture 9: Case Study,443,9
+CONT00580,C063,Entrepreneurship — Lecture 10: Examples,1410,10
+CONT00581,C064,Algorithms — Lecture 1: Case Study,419,1
+CONT00582,C064,Algorithms — Lecture 2: Summary,526,2
+CONT00583,C064,Algorithms — Lecture 3: Summary,3578,3
+CONT00584,C064,Algorithms — Lecture 4: Summary,2920,4
+CONT00585,C064,Algorithms — Lecture 5: Deep Dive,3103,5
+CONT00586,C064,Algorithms — Lecture 6: Deep Dive,599,6
+CONT00587,C064,Algorithms — Lecture 7: Examples,3423,7
+CONT00588,C064,Algorithms — Lecture 8: Deep Dive,3238,8
+CONT00589,C065,Microeconomics — Lecture 1: Examples,2152,1
+CONT00590,C065,Microeconomics — Lecture 2: Exercise,3160,2
+CONT00591,C065,Microeconomics — Lecture 3: Case Study,1255,3
+CONT00592,C065,Microeconomics — Lecture 4: Summary,3278,4
+CONT00593,C065,Microeconomics — Lecture 5: Summary,998,5
+CONT00594,C065,Microeconomics — Lecture 6: Exercise,2518,6
+CONT00595,C066,Entrepreneurship — Lecture 1: Overview,352,1
+CONT00596,C066,Entrepreneurship — Lecture 2: Case Study,3575,2
+CONT00597,C066,Entrepreneurship — Lecture 3: Exercise,2458,3
+CONT00598,C066,Entrepreneurship — Lecture 4: Overview,505,4
+CONT00599,C066,Entrepreneurship — Lecture 5: Examples,1321,5
+CONT00600,C066,Entrepreneurship — Lecture 6: Overview,2952,6
+CONT00601,C067,Cloud Computing — Lecture 1: Exercise,2042,1
+CONT00602,C067,Cloud Computing — Lecture 2: Deep Dive,3488,2
+CONT00603,C067,Cloud Computing — Lecture 3: Summary,1171,3
+CONT00604,C067,Cloud Computing — Lecture 4: Examples,3262,4
+CONT00605,C067,Cloud Computing — Lecture 5: Summary,2015,5
+CONT00606,C067,Cloud Computing — Lecture 6: Case Study,1958,6
+CONT00607,C067,Cloud Computing — Lecture 7: Deep Dive,565,7
+CONT00608,C067,Cloud Computing — Lecture 8: Overview,1815,8
+CONT00609,C067,Cloud Computing — Lecture 9: Overview,2547,9
+CONT00610,C067,Cloud Computing — Lecture 10: Overview,1802,10
+CONT00611,C067,Cloud Computing — Lecture 11: Summary,3150,11
+CONT00612,C067,Cloud Computing — Lecture 12: Case Study,1037,12
+CONT00613,C068,Calculus II — Lecture 1: Deep Dive,2896,1
+CONT00614,C068,Calculus II — Lecture 2: Case Study,692,2
+CONT00615,C068,Calculus II — Lecture 3: Examples,2539,3
+CONT00616,C068,Calculus II — Lecture 4: Deep Dive,1786,4
+CONT00617,C068,Calculus II — Lecture 5: Exercise,3578,5
+CONT00618,C068,Calculus II — Lecture 6: Case Study,626,6
+CONT00619,C068,Calculus II — Lecture 7: Case Study,2315,7
+CONT00620,C068,Calculus II — Lecture 8: Overview,2626,8
+CONT00621,C069,Web Development — Lecture 1: Summary,2729,1
+CONT00622,C069,Web Development — Lecture 2: Overview,2758,2
+CONT00623,C069,Web Development — Lecture 3: Exercise,2489,3
+CONT00624,C069,Web Development — Lecture 4: Case Study,1498,4
+CONT00625,C069,Web Development — Lecture 5: Deep Dive,660,5
+CONT00626,C069,Web Development — Lecture 6: Case Study,1896,6
+CONT00627,C070,Statistics — Lecture 1: Overview,1280,1
+CONT00628,C070,Statistics — Lecture 2: Case Study,1708,2
+CONT00629,C070,Statistics — Lecture 3: Exercise,3579,3
+CONT00630,C070,Statistics — Lecture 4: Exercise,947,4
+CONT00631,C070,Statistics — Lecture 5: Exercise,892,5
+CONT00632,C070,Statistics — Lecture 6: Examples,1891,6
+CONT00633,C070,Statistics — Lecture 7: Case Study,966,7
+CONT00634,C070,Statistics — Lecture 8: Exercise,715,8
+CONT00635,C070,Statistics — Lecture 9: Overview,881,9
+CONT00636,C070,Statistics — Lecture 10: Exercise,1055,10
+CONT00637,C070,Statistics — Lecture 11: Examples,1029,11
+CONT00638,C071,Thermodynamics — Lecture 1: Summary,3360,1
+CONT00639,C071,Thermodynamics — Lecture 2: Deep Dive,659,2
+CONT00640,C071,Thermodynamics — Lecture 3: Examples,680,3
+CONT00641,C071,Thermodynamics — Lecture 4: Overview,1196,4
+CONT00642,C071,Thermodynamics — Lecture 5: Overview,1006,5
+CONT00643,C071,Thermodynamics — Lecture 6: Case Study,909,6
+CONT00644,C071,Thermodynamics — Lecture 7: Overview,533,7
+CONT00645,C072,Game Design — Lecture 1: Exercise,2970,1
+CONT00646,C072,Game Design — Lecture 2: Deep Dive,520,2
+CONT00647,C072,Game Design — Lecture 3: Case Study,2420,3
+CONT00648,C072,Game Design — Lecture 4: Overview,2864,4
+CONT00649,C072,Game Design — Lecture 5: Deep Dive,367,5
+CONT00650,C072,Game Design — Lecture 6: Overview,2519,6
+CONT00651,C072,Game Design — Lecture 7: Summary,2076,7
+CONT00652,C072,Game Design — Lecture 8: Summary,745,8
+CONT00653,C073,Cell Biology — Lecture 1: Examples,1008,1
+CONT00654,C073,Cell Biology — Lecture 2: Deep Dive,2246,2
+CONT00655,C073,Cell Biology — Lecture 3: Examples,1775,3
+CONT00656,C073,Cell Biology — Lecture 4: Summary,2706,4
+CONT00657,C073,Cell Biology — Lecture 5: Summary,503,5
+CONT00658,C073,Cell Biology — Lecture 6: Summary,829,6
+CONT00659,C073,Cell Biology — Lecture 7: Case Study,2443,7
+CONT00660,C073,Cell Biology — Lecture 8: Exercise,3318,8
+CONT00661,C073,Cell Biology — Lecture 9: Overview,920,9
+CONT00662,C073,Cell Biology — Lecture 10: Exercise,2706,10
+CONT00663,C074,Databases — Lecture 1: Examples,3586,1
+CONT00664,C074,Databases — Lecture 2: Summary,1692,2
+CONT00665,C074,Databases — Lecture 3: Case Study,925,3
+CONT00666,C074,Databases — Lecture 4: Exercise,1125,4
+CONT00667,C074,Databases — Lecture 5: Summary,1178,5
+CONT00668,C074,Databases — Lecture 6: Summary,3258,6
+CONT00669,C074,Databases — Lecture 7: Examples,1342,7
+CONT00670,C075,Data Structures — Lecture 1: Summary,1373,1
+CONT00671,C075,Data Structures — Lecture 2: Examples,1888,2
+CONT00672,C075,Data Structures — Lecture 3: Case Study,976,3
+CONT00673,C075,Data Structures — Lecture 4: Overview,1471,4
+CONT00674,C075,Data Structures — Lecture 5: Overview,2937,5
+CONT00675,C075,Data Structures — Lecture 6: Case Study,2713,6
+CONT00676,C075,Data Structures — Lecture 7: Deep Dive,2061,7
+CONT00677,C075,Data Structures — Lecture 8: Examples,2145,8
+CONT00678,C075,Data Structures — Lecture 9: Summary,2848,9
+CONT00679,C075,Data Structures — Lecture 10: Summary,1727,10
+CONT00680,C075,Data Structures — Lecture 11: Examples,3010,11
+CONT00681,C076,Data Structures — Lecture 1: Examples,937,1
+CONT00682,C076,Data Structures — Lecture 2: Deep Dive,3181,2
+CONT00683,C076,Data Structures — Lecture 3: Summary,3158,3
+CONT00684,C076,Data Structures — Lecture 4: Summary,3107,4
+CONT00685,C076,Data Structures — Lecture 5: Examples,1073,5
+CONT00686,C076,Data Structures — Lecture 6: Overview,1145,6
+CONT00687,C077,Network Fundamentals — Lecture 1: Exercise,1401,1
+CONT00688,C077,Network Fundamentals — Lecture 2: Overview,1999,2
+CONT00689,C077,Network Fundamentals — Lecture 3: Summary,996,3
+CONT00690,C077,Network Fundamentals — Lecture 4: Summary,3341,4
+CONT00691,C077,Network Fundamentals — Lecture 5: Examples,740,5
+CONT00692,C077,Network Fundamentals — Lecture 6: Exercise,795,6
+CONT00693,C077,Network Fundamentals — Lecture 7: Deep Dive,3177,7
+CONT00694,C077,Network Fundamentals — Lecture 8: Case Study,2885,8
+CONT00695,C077,Network Fundamentals — Lecture 9: Deep Dive,3018,9
+CONT00696,C077,Network Fundamentals — Lecture 10: Deep Dive,2099,10
+CONT00697,C077,Network Fundamentals — Lecture 11: Examples,2439,11
+CONT00698,C078,Game Design — Lecture 1: Overview,3106,1
+CONT00699,C078,Game Design — Lecture 2: Deep Dive,776,2
+CONT00700,C078,Game Design — Lecture 3: Examples,494,3
+CONT00701,C078,Game Design — Lecture 4: Overview,864,4
+CONT00702,C078,Game Design — Lecture 5: Overview,2322,5
+CONT00703,C078,Game Design — Lecture 6: Examples,1103,6
+CONT00704,C079,Microeconomics — Lecture 1: Exercise,444,1
+CONT00705,C079,Microeconomics — Lecture 2: Case Study,3043,2
+CONT00706,C079,Microeconomics — Lecture 3: Deep Dive,2730,3
+CONT00707,C079,Microeconomics — Lecture 4: Examples,1291,4
+CONT00708,C079,Microeconomics — Lecture 5: Case Study,1340,5
+CONT00709,C079,Microeconomics — Lecture 6: Deep Dive,384,6
+CONT00710,C079,Microeconomics — Lecture 7: Examples,1529,7
+CONT00711,C079,Microeconomics — Lecture 8: Overview,3377,8
+CONT00712,C080,English Literature — Lecture 1: Deep Dive,3373,1
+CONT00713,C080,English Literature — Lecture 2: Examples,1734,2
+CONT00714,C080,English Literature — Lecture 3: Overview,1608,3
+CONT00715,C080,English Literature — Lecture 4: Overview,550,4
+CONT00716,C080,English Literature — Lecture 5: Examples,605,5
+CONT00717,C080,English Literature — Lecture 6: Examples,1940,6
+CONT00718,C080,English Literature — Lecture 7: Deep Dive,1801,7
+CONT00719,C080,English Literature — Lecture 8: Case Study,2562,8
+CONT00720,C080,English Literature — Lecture 9: Summary,3365,9
+CONT00721,C080,English Literature — Lecture 10: Summary,2879,10
+CONT00722,C080,English Literature — Lecture 11: Summary,737,11
+CONT00723,C080,English Literature — Lecture 12: Examples,3093,12
+CONT00724,C081,Business Management — Lecture 1: Examples,2528,1
+CONT00725,C081,Business Management — Lecture 2: Exercise,3241,2
+CONT00726,C081,Business Management — Lecture 3: Deep Dive,1313,3
+CONT00727,C081,Business Management — Lecture 4: Summary,1835,4
+CONT00728,C081,Business Management — Lecture 5: Case Study,2453,5
+CONT00729,C081,Business Management — Lecture 6: Deep Dive,2889,6
+CONT00730,C081,Business Management — Lecture 7: Overview,601,7
+CONT00731,C081,Business Management — Lecture 8: Examples,1910,8
+CONT00732,C081,Business Management — Lecture 9: Case Study,810,9
+CONT00733,C081,Business Management — Lecture 10: Case Study,2246,10
+CONT00734,C082,Microeconomics — Lecture 1: Summary,302,1
+CONT00735,C082,Microeconomics — Lecture 2: Exercise,2613,2
+CONT00736,C082,Microeconomics — Lecture 3: Deep Dive,592,3
+CONT00737,C082,Microeconomics — Lecture 4: Deep Dive,361,4
+CONT00738,C082,Microeconomics — Lecture 5: Deep Dive,1204,5
+CONT00739,C082,Microeconomics — Lecture 6: Summary,425,6
+CONT00740,C082,Microeconomics — Lecture 7: Case Study,1680,7
+CONT00741,C082,Microeconomics — Lecture 8: Examples,3263,8
+CONT00742,C082,Microeconomics — Lecture 9: Overview,1779,9
+CONT00743,C082,Microeconomics — Lecture 10: Deep Dive,3412,10
+CONT00744,C082,Microeconomics — Lecture 11: Exercise,1717,11
+CONT00745,C082,Microeconomics — Lecture 12: Examples,3329,12
+CONT00746,C083,Artificial Intelligence — Lecture 1: Overview,2215,1
+CONT00747,C083,Artificial Intelligence — Lecture 2: Examples,1066,2
+CONT00748,C083,Artificial Intelligence — Lecture 3: Exercise,2951,3
+CONT00749,C083,Artificial Intelligence — Lecture 4: Case Study,904,4
+CONT00750,C083,Artificial Intelligence — Lecture 5: Examples,976,5
+CONT00751,C083,Artificial Intelligence — Lecture 6: Case Study,1088,6
+CONT00752,C083,Artificial Intelligence — Lecture 7: Case Study,958,7
+CONT00753,C083,Artificial Intelligence — Lecture 8: Exercise,3113,8
+CONT00754,C083,Artificial Intelligence — Lecture 9: Overview,2126,9
+CONT00755,C083,Artificial Intelligence — Lecture 10: Exercise,2437,10
+CONT00756,C083,Artificial Intelligence — Lecture 11: Deep Dive,3295,11
+CONT00757,C084,Calculus II — Lecture 1: Case Study,2112,1
+CONT00758,C084,Calculus II — Lecture 2: Overview,2368,2
+CONT00759,C084,Calculus II — Lecture 3: Examples,572,3
+CONT00760,C084,Calculus II — Lecture 4: Deep Dive,2711,4
+CONT00761,C084,Calculus II — Lecture 5: Deep Dive,2366,5
+CONT00762,C084,Calculus II — Lecture 6: Case Study,2317,6
+CONT00763,C084,Calculus II — Lecture 7: Overview,2704,7
+CONT00764,C084,Calculus II — Lecture 8: Examples,838,8
+CONT00765,C085,English Literature — Lecture 1: Deep Dive,1783,1
+CONT00766,C085,English Literature — Lecture 2: Case Study,2818,2
+CONT00767,C085,English Literature — Lecture 3: Overview,1835,3
+CONT00768,C085,English Literature — Lecture 4: Case Study,3529,4
+CONT00769,C085,English Literature — Lecture 5: Exercise,2447,5
+CONT00770,C085,English Literature — Lecture 6: Deep Dive,1479,6
+CONT00771,C085,English Literature — Lecture 7: Summary,3107,7
+CONT00772,C086,Cell Biology — Lecture 1: Examples,1236,1
+CONT00773,C086,Cell Biology — Lecture 2: Examples,388,2
+CONT00774,C086,Cell Biology — Lecture 3: Examples,1527,3
+CONT00775,C086,Cell Biology — Lecture 4: Summary,457,4
+CONT00776,C086,Cell Biology — Lecture 5: Case Study,536,5
+CONT00777,C086,Cell Biology — Lecture 6: Exercise,424,6
+CONT00778,C087,Thermodynamics — Lecture 1: Exercise,3385,1
+CONT00779,C087,Thermodynamics — Lecture 2: Exercise,1130,2
+CONT00780,C087,Thermodynamics — Lecture 3: Case Study,395,3
+CONT00781,C087,Thermodynamics — Lecture 4: Overview,975,4
+CONT00782,C087,Thermodynamics — Lecture 5: Exercise,766,5
+CONT00783,C087,Thermodynamics — Lecture 6: Case Study,2679,6
+CONT00784,C087,Thermodynamics — Lecture 7: Deep Dive,1557,7
+CONT00785,C087,Thermodynamics — Lecture 8: Case Study,627,8
+CONT00786,C087,Thermodynamics — Lecture 9: Examples,2774,9
+CONT00787,C088,Cybersecurity Basics — Lecture 1: Exercise,362,1
+CONT00788,C088,Cybersecurity Basics — Lecture 2: Examples,1777,2
+CONT00789,C088,Cybersecurity Basics — Lecture 3: Case Study,482,3
+CONT00790,C088,Cybersecurity Basics — Lecture 4: Summary,2440,4
+CONT00791,C088,Cybersecurity Basics — Lecture 5: Deep Dive,1569,5
+CONT00792,C088,Cybersecurity Basics — Lecture 6: Exercise,3053,6
+CONT00793,C088,Cybersecurity Basics — Lecture 7: Exercise,985,7
+CONT00794,C088,Cybersecurity Basics — Lecture 8: Case Study,3279,8
+CONT00795,C088,Cybersecurity Basics — Lecture 9: Case Study,3160,9
+CONT00796,C088,Cybersecurity Basics — Lecture 10: Deep Dive,2781,10
+CONT00797,C088,Cybersecurity Basics — Lecture 11: Summary,825,11
+CONT00798,C089,Photography — Lecture 1: Overview,3070,1
+CONT00799,C089,Photography — Lecture 2: Case Study,366,2
+CONT00800,C089,Photography — Lecture 3: Exercise,1505,3
+CONT00801,C089,Photography — Lecture 4: Exercise,3283,4
+CONT00802,C089,Photography — Lecture 5: Exercise,448,5
+CONT00803,C089,Photography — Lecture 6: Overview,875,6
+CONT00804,C089,Photography — Lecture 7: Summary,3559,7
+CONT00805,C089,Photography — Lecture 8: Overview,1472,8
+CONT00806,C090,Financial Accounting — Lecture 1: Case Study,1229,1
+CONT00807,C090,Financial Accounting — Lecture 2: Overview,2962,2
+CONT00808,C090,Financial Accounting — Lecture 3: Exercise,1235,3
+CONT00809,C090,Financial Accounting — Lecture 4: Exercise,3594,4
+CONT00810,C090,Financial Accounting — Lecture 5: Deep Dive,626,5
+CONT00811,C090,Financial Accounting — Lecture 6: Deep Dive,1161,6
+CONT00812,C090,Financial Accounting — Lecture 7: Deep Dive,1227,7
+CONT00813,C090,Financial Accounting — Lecture 8: Examples,1435,8
+CONT00814,C090,Financial Accounting — Lecture 9: Exercise,1395,9
+CONT00815,C091,Python Programming — Lecture 1: Overview,1592,1
+CONT00816,C091,Python Programming — Lecture 2: Overview,2777,2
+CONT00817,C091,Python Programming — Lecture 3: Overview,2248,3
+CONT00818,C091,Python Programming — Lecture 4: Deep Dive,1780,4
+CONT00819,C091,Python Programming — Lecture 5: Exercise,2122,5
+CONT00820,C091,Python Programming — Lecture 6: Summary,2736,6
+CONT00821,C091,Python Programming — Lecture 7: Examples,2400,7
+CONT00822,C091,Python Programming — Lecture 8: Deep Dive,403,8
+CONT00823,C091,Python Programming — Lecture 9: Case Study,2673,9
+CONT00824,C091,Python Programming — Lecture 10: Deep Dive,2576,10
+CONT00825,C091,Python Programming — Lecture 11: Summary,1697,11
+CONT00826,C092,Game Design — Lecture 1: Deep Dive,3136,1
+CONT00827,C092,Game Design — Lecture 2: Examples,1428,2
+CONT00828,C092,Game Design — Lecture 3: Deep Dive,1683,3
+CONT00829,C092,Game Design — Lecture 4: Examples,2223,4
+CONT00830,C092,Game Design — Lecture 5: Examples,1339,5
+CONT00831,C092,Game Design — Lecture 6: Summary,3488,6
+CONT00832,C092,Game Design — Lecture 7: Examples,552,7
+CONT00833,C092,Game Design — Lecture 8: Examples,1726,8
+CONT00834,C092,Game Design — Lecture 9: Exercise,3314,9
+CONT00835,C092,Game Design — Lecture 10: Deep Dive,3490,10
+CONT00836,C092,Game Design — Lecture 11: Summary,2518,11
+CONT00837,C093,Data Structures — Lecture 1: Summary,1198,1
+CONT00838,C093,Data Structures — Lecture 2: Examples,2540,2
+CONT00839,C093,Data Structures — Lecture 3: Summary,2963,3
+CONT00840,C093,Data Structures — Lecture 4: Exercise,578,4
+CONT00841,C093,Data Structures — Lecture 5: Overview,2640,5
+CONT00842,C093,Data Structures — Lecture 6: Deep Dive,612,6
+CONT00843,C094,Databases — Lecture 1: Summary,2478,1
+CONT00844,C094,Databases — Lecture 2: Exercise,828,2
+CONT00845,C094,Databases — Lecture 3: Overview,502,3
+CONT00846,C094,Databases — Lecture 4: Summary,3254,4
+CONT00847,C094,Databases — Lecture 5: Deep Dive,3262,5
+CONT00848,C094,Databases — Lecture 6: Exercise,2999,6
+CONT00849,C094,Databases — Lecture 7: Overview,805,7
+CONT00850,C094,Databases — Lecture 8: Summary,2243,8
+CONT00851,C094,Databases — Lecture 9: Summary,631,9
+CONT00852,C095,Thermodynamics — Lecture 1: Exercise,1119,1
+CONT00853,C095,Thermodynamics — Lecture 2: Exercise,1653,2
+CONT00854,C095,Thermodynamics — Lecture 3: Overview,3324,3
+CONT00855,C095,Thermodynamics — Lecture 4: Case Study,2923,4
+CONT00856,C095,Thermodynamics — Lecture 5: Case Study,2522,5
+CONT00857,C095,Thermodynamics — Lecture 6: Examples,1768,6
+CONT00858,C095,Thermodynamics — Lecture 7: Summary,811,7
+CONT00859,C095,Thermodynamics — Lecture 8: Exercise,380,8
+CONT00860,C095,Thermodynamics — Lecture 9: Exercise,3352,9
+CONT00861,C095,Thermodynamics — Lecture 10: Examples,3050,10
+CONT00862,C096,Classical Mechanics — Lecture 1: Examples,1320,1
+CONT00863,C096,Classical Mechanics — Lecture 2: Case Study,3356,2
+CONT00864,C096,Classical Mechanics — Lecture 3: Overview,1421,3
+CONT00865,C096,Classical Mechanics — Lecture 4: Case Study,2707,4
+CONT00866,C096,Classical Mechanics — Lecture 5: Case Study,425,5
+CONT00867,C096,Classical Mechanics — Lecture 6: Case Study,3532,6
+CONT00868,C096,Classical Mechanics — Lecture 7: Overview,2843,7
+CONT00869,C096,Classical Mechanics — Lecture 8: Exercise,1397,8
+CONT00870,C096,Classical Mechanics — Lecture 9: Deep Dive,2935,9
+CONT00871,C097,Data Structures — Lecture 1: Exercise,1148,1
+CONT00872,C097,Data Structures — Lecture 2: Summary,3165,2
+CONT00873,C097,Data Structures — Lecture 3: Overview,2885,3
+CONT00874,C097,Data Structures — Lecture 4: Overview,1293,4
+CONT00875,C097,Data Structures — Lecture 5: Deep Dive,2949,5
+CONT00876,C097,Data Structures — Lecture 6: Case Study,460,6
+CONT00877,C097,Data Structures — Lecture 7: Exercise,2352,7
+CONT00878,C097,Data Structures — Lecture 8: Exercise,1460,8
+CONT00879,C098,Cybersecurity Basics — Lecture 1: Summary,2720,1
+CONT00880,C098,Cybersecurity Basics — Lecture 2: Summary,705,2
+CONT00881,C098,Cybersecurity Basics — Lecture 3: Case Study,1716,3
+CONT00882,C098,Cybersecurity Basics — Lecture 4: Case Study,2052,4
+CONT00883,C098,Cybersecurity Basics — Lecture 5: Exercise,2986,5
+CONT00884,C098,Cybersecurity Basics — Lecture 6: Exercise,1316,6
+CONT00885,C098,Cybersecurity Basics — Lecture 7: Examples,1024,7
+CONT00886,C099,Marketing 101 — Lecture 1: Summary,1565,1
+CONT00887,C099,Marketing 101 — Lecture 2: Case Study,1296,2
+CONT00888,C099,Marketing 101 — Lecture 3: Case Study,2025,3
+CONT00889,C099,Marketing 101 — Lecture 4: Overview,2068,4
+CONT00890,C099,Marketing 101 — Lecture 5: Deep Dive,3056,5
+CONT00891,C099,Marketing 101 — Lecture 6: Overview,984,6
+CONT00892,C099,Marketing 101 — Lecture 7: Exercise,3387,7
+CONT00893,C099,Marketing 101 — Lecture 8: Deep Dive,2690,8
+CONT00894,C099,Marketing 101 — Lecture 9: Deep Dive,2170,9
+CONT00895,C099,Marketing 101 — Lecture 10: Summary,1305,10
+CONT00896,C099,Marketing 101 — Lecture 11: Summary,3128,11
+CONT00897,C099,Marketing 101 — Lecture 12: Case Study,3102,12
+CONT00898,C100,Calculus I — Lecture 1: Exercise,498,1
+CONT00899,C100,Calculus I — Lecture 2: Examples,2430,2
+CONT00900,C100,Calculus I — Lecture 3: Overview,3301,3
+CONT00901,C100,Calculus I — Lecture 4: Summary,2965,4
+CONT00902,C100,Calculus I — Lecture 5: Overview,2979,5
+CONT00903,C100,Calculus I — Lecture 6: Case Study,592,6
+CONT00904,C100,Calculus I — Lecture 7: Case Study,1874,7
+CONT00905,C100,Calculus I — Lecture 8: Case Study,361,8
+CONT00906,C100,Calculus I — Lecture 9: Exercise,527,9
+CONT00907,C101,Cell Biology — Lecture 1: Deep Dive,1400,1
+CONT00908,C101,Cell Biology — Lecture 2: Exercise,718,2
+CONT00909,C101,Cell Biology — Lecture 3: Summary,1643,3
+CONT00910,C101,Cell Biology — Lecture 4: Case Study,660,4
+CONT00911,C101,Cell Biology — Lecture 5: Exercise,545,5
+CONT00912,C101,Cell Biology — Lecture 6: Overview,2187,6
+CONT00913,C102,Graphic Design — Lecture 1: Case Study,1597,1
+CONT00914,C102,Graphic Design — Lecture 2: Examples,1699,2
+CONT00915,C102,Graphic Design — Lecture 3: Examples,2112,3
+CONT00916,C102,Graphic Design — Lecture 4: Exercise,3084,4
+CONT00917,C102,Graphic Design — Lecture 5: Summary,1164,5
+CONT00918,C102,Graphic Design — Lecture 6: Exercise,1305,6
+CONT00919,C102,Graphic Design — Lecture 7: Exercise,2644,7
+CONT00920,C102,Graphic Design — Lecture 8: Deep Dive,773,8
+CONT00921,C102,Graphic Design — Lecture 9: Examples,383,9
+CONT00922,C102,Graphic Design — Lecture 10: Exercise,2741,10
+CONT00923,C102,Graphic Design — Lecture 11: Exercise,2201,11
+CONT00924,C103,French Basics — Lecture 1: Summary,558,1
+CONT00925,C103,French Basics — Lecture 2: Overview,2163,2
+CONT00926,C103,French Basics — Lecture 3: Summary,1490,3
+CONT00927,C103,French Basics — Lecture 4: Summary,3058,4
+CONT00928,C103,French Basics — Lecture 5: Deep Dive,1878,5
+CONT00929,C103,French Basics — Lecture 6: Summary,1419,6
+CONT00930,C104,Business Management — Lecture 1: Summary,1885,1
+CONT00931,C104,Business Management — Lecture 2: Examples,1698,2
+CONT00932,C104,Business Management — Lecture 3: Deep Dive,2440,3
+CONT00933,C104,Business Management — Lecture 4: Exercise,774,4
+CONT00934,C104,Business Management — Lecture 5: Examples,393,5
+CONT00935,C104,Business Management — Lecture 6: Deep Dive,703,6
+CONT00936,C104,Business Management — Lecture 7: Case Study,2307,7
+CONT00937,C104,Business Management — Lecture 8: Deep Dive,1230,8
+CONT00938,C104,Business Management — Lecture 9: Case Study,319,9
+CONT00939,C104,Business Management — Lecture 10: Deep Dive,2747,10
+CONT00940,C104,Business Management — Lecture 11: Examples,525,11
+CONT00941,C105,Financial Accounting — Lecture 1: Overview,2571,1
+CONT00942,C105,Financial Accounting — Lecture 2: Case Study,2242,2
+CONT00943,C105,Financial Accounting — Lecture 3: Examples,1054,3
+CONT00944,C105,Financial Accounting — Lecture 4: Exercise,1630,4
+CONT00945,C105,Financial Accounting — Lecture 5: Deep Dive,2054,5
+CONT00946,C105,Financial Accounting — Lecture 6: Deep Dive,2683,6
+CONT00947,C105,Financial Accounting — Lecture 7: Overview,3526,7
+CONT00948,C106,NLP Fundamentals — Lecture 1: Overview,1642,1
+CONT00949,C106,NLP Fundamentals — Lecture 2: Exercise,739,2
+CONT00950,C106,NLP Fundamentals — Lecture 3: Case Study,3245,3
+CONT00951,C106,NLP Fundamentals — Lecture 4: Examples,2992,4
+CONT00952,C106,NLP Fundamentals — Lecture 5: Case Study,3458,5
+CONT00953,C106,NLP Fundamentals — Lecture 6: Case Study,1609,6
+CONT00954,C106,NLP Fundamentals — Lecture 7: Examples,2653,7
+CONT00955,C106,NLP Fundamentals — Lecture 8: Summary,689,8
+CONT00956,C106,NLP Fundamentals — Lecture 9: Exercise,3241,9
+CONT00957,C106,NLP Fundamentals — Lecture 10: Case Study,2379,10
+CONT00958,C106,NLP Fundamentals — Lecture 11: Exercise,1743,11
+CONT00959,C107,Human-Computer Interaction — Lecture 1: Overview,1040,1
+CONT00960,C107,Human-Computer Interaction — Lecture 2: Exercise,1461,2
+CONT00961,C107,Human-Computer Interaction — Lecture 3: Case Study,1944,3
+CONT00962,C107,Human-Computer Interaction — Lecture 4: Deep Dive,543,4
+CONT00963,C107,Human-Computer Interaction — Lecture 5: Overview,2833,5
+CONT00964,C107,Human-Computer Interaction — Lecture 6: Exercise,999,6
+CONT00965,C107,Human-Computer Interaction — Lecture 7: Summary,1973,7
+CONT00966,C107,Human-Computer Interaction — Lecture 8: Examples,2736,8
+CONT00967,C107,Human-Computer Interaction — Lecture 9: Exercise,901,9
+CONT00968,C107,Human-Computer Interaction — Lecture 10: Deep Dive,2195,10
+CONT00969,C107,Human-Computer Interaction — Lecture 11: Examples,2924,11
+CONT00970,C107,Human-Computer Interaction — Lecture 12: Overview,2285,12
+CONT00971,C108,Calculus II — Lecture 1: Summary,1989,1
+CONT00972,C108,Calculus II — Lecture 2: Exercise,3554,2
+CONT00973,C108,Calculus II — Lecture 3: Overview,2538,3
+CONT00974,C108,Calculus II — Lecture 4: Overview,2332,4
+CONT00975,C108,Calculus II — Lecture 5: Deep Dive,2984,5
+CONT00976,C108,Calculus II — Lecture 6: Case Study,2065,6
+CONT00977,C108,Calculus II — Lecture 7: Overview,3220,7
+CONT00978,C108,Calculus II — Lecture 8: Overview,2559,8
+CONT00979,C108,Calculus II — Lecture 9: Deep Dive,937,9
+CONT00980,C108,Calculus II — Lecture 10: Case Study,1526,10
+CONT00981,C109,English Literature — Lecture 1: Exercise,1766,1
+CONT00982,C109,English Literature — Lecture 2: Deep Dive,3109,2
+CONT00983,C109,English Literature — Lecture 3: Exercise,3158,3
+CONT00984,C109,English Literature — Lecture 4: Examples,1880,4
+CONT00985,C109,English Literature — Lecture 5: Examples,453,5
+CONT00986,C109,English Literature — Lecture 6: Summary,764,6
+CONT00987,C109,English Literature — Lecture 7: Deep Dive,2509,7
+CONT00988,C109,English Literature — Lecture 8: Overview,1449,8
+CONT00989,C109,English Literature — Lecture 9: Exercise,3600,9
+CONT00990,C109,English Literature — Lecture 10: Summary,2956,10
+CONT00991,C109,English Literature — Lecture 11: Examples,1666,11
+CONT00992,C109,English Literature — Lecture 12: Examples,1175,12
+CONT00993,C110,Algorithms — Lecture 1: Deep Dive,2968,1
+CONT00994,C110,Algorithms — Lecture 2: Deep Dive,2808,2
+CONT00995,C110,Algorithms — Lecture 3: Overview,3095,3
+CONT00996,C110,Algorithms — Lecture 4: Deep Dive,1034,4
+CONT00997,C110,Algorithms — Lecture 5: Examples,1810,5
+CONT00998,C110,Algorithms — Lecture 6: Summary,1552,6
+CONT00999,C110,Algorithms — Lecture 7: Overview,737,7
+CONT01000,C111,Microeconomics — Lecture 1: Examples,1050,1
+CONT01001,C111,Microeconomics — Lecture 2: Case Study,499,2
+CONT01002,C111,Microeconomics — Lecture 3: Examples,711,3
+CONT01003,C111,Microeconomics — Lecture 4: Overview,3524,4
+CONT01004,C111,Microeconomics — Lecture 5: Summary,1080,5
+CONT01005,C111,Microeconomics — Lecture 6: Exercise,2160,6
+CONT01006,C111,Microeconomics — Lecture 7: Deep Dive,1919,7
+CONT01007,C111,Microeconomics — Lecture 8: Overview,1708,8
+CONT01008,C111,Microeconomics — Lecture 9: Overview,627,9
+CONT01009,C111,Microeconomics — Lecture 10: Summary,474,10
+CONT01010,C112,Algorithms — Lecture 1: Examples,1543,1
+CONT01011,C112,Algorithms — Lecture 2: Overview,1109,2
+CONT01012,C112,Algorithms — Lecture 3: Examples,1019,3
+CONT01013,C112,Algorithms — Lecture 4: Deep Dive,2083,4
+CONT01014,C112,Algorithms — Lecture 5: Summary,1015,5
+CONT01015,C112,Algorithms — Lecture 6: Case Study,1930,6
+CONT01016,C112,Algorithms — Lecture 7: Overview,2661,7
+CONT01017,C113,Project Management — Lecture 1: Deep Dive,1797,1
+CONT01018,C113,Project Management — Lecture 2: Examples,1348,2
+CONT01019,C113,Project Management — Lecture 3: Summary,1174,3
+CONT01020,C113,Project Management — Lecture 4: Summary,3333,4
+CONT01021,C113,Project Management — Lecture 5: Examples,3326,5
+CONT01022,C113,Project Management — Lecture 6: Overview,3474,6
+CONT01023,C113,Project Management — Lecture 7: Deep Dive,1487,7
+CONT01024,C114,Financial Accounting — Lecture 1: Exercise,2798,1
+CONT01025,C114,Financial Accounting — Lecture 2: Deep Dive,2201,2
+CONT01026,C114,Financial Accounting — Lecture 3: Case Study,3162,3
+CONT01027,C114,Financial Accounting — Lecture 4: Summary,1354,4
+CONT01028,C114,Financial Accounting — Lecture 5: Overview,2401,5
+CONT01029,C114,Financial Accounting — Lecture 6: Deep Dive,654,6
+CONT01030,C114,Financial Accounting — Lecture 7: Summary,3295,7
+CONT01031,C114,Financial Accounting — Lecture 8: Summary,2957,8
+CONT01032,C114,Financial Accounting — Lecture 9: Examples,2376,9
+CONT01033,C114,Financial Accounting — Lecture 10: Examples,2434,10
+CONT01034,C115,French Basics — Lecture 1: Summary,1141,1
+CONT01035,C115,French Basics — Lecture 2: Summary,2846,2
+CONT01036,C115,French Basics — Lecture 3: Examples,470,3
+CONT01037,C115,French Basics — Lecture 4: Summary,871,4
+CONT01038,C115,French Basics — Lecture 5: Overview,375,5
+CONT01039,C115,French Basics — Lecture 6: Overview,1374,6
+CONT01040,C116,Marketing 101 — Lecture 1: Summary,3084,1
+CONT01041,C116,Marketing 101 — Lecture 2: Summary,331,2
+CONT01042,C116,Marketing 101 — Lecture 3: Summary,937,3
+CONT01043,C116,Marketing 101 — Lecture 4: Examples,638,4
+CONT01044,C116,Marketing 101 — Lecture 5: Overview,2337,5
+CONT01045,C116,Marketing 101 — Lecture 6: Deep Dive,910,6
+CONT01046,C116,Marketing 101 — Lecture 7: Overview,2797,7
+CONT01047,C116,Marketing 101 — Lecture 8: Exercise,2854,8
+CONT01048,C116,Marketing 101 — Lecture 9: Deep Dive,2890,9
+CONT01049,C116,Marketing 101 — Lecture 10: Exercise,3578,10
+CONT01050,C117,Algorithms — Lecture 1: Examples,3365,1
+CONT01051,C117,Algorithms — Lecture 2: Exercise,1713,2
+CONT01052,C117,Algorithms — Lecture 3: Deep Dive,2060,3
+CONT01053,C117,Algorithms — Lecture 4: Overview,417,4
+CONT01054,C117,Algorithms — Lecture 5: Exercise,2179,5
+CONT01055,C117,Algorithms — Lecture 6: Deep Dive,672,6
+CONT01056,C118,Cell Biology — Lecture 1: Summary,2791,1
+CONT01057,C118,Cell Biology — Lecture 2: Examples,3203,2
+CONT01058,C118,Cell Biology — Lecture 3: Deep Dive,2703,3
+CONT01059,C118,Cell Biology — Lecture 4: Case Study,1187,4
+CONT01060,C118,Cell Biology — Lecture 5: Summary,404,5
+CONT01061,C118,Cell Biology — Lecture 6: Case Study,579,6
+CONT01062,C118,Cell Biology — Lecture 7: Case Study,2056,7
+CONT01063,C118,Cell Biology — Lecture 8: Case Study,462,8
+CONT01064,C118,Cell Biology — Lecture 9: Exercise,1823,9
+CONT01065,C118,Cell Biology — Lecture 10: Overview,3095,10
+CONT01066,C118,Cell Biology — Lecture 11: Case Study,2613,11
+CONT01067,C119,Digital Marketing — Lecture 1: Overview,2704,1
+CONT01068,C119,Digital Marketing — Lecture 2: Exercise,2509,2
+CONT01069,C119,Digital Marketing — Lecture 3: Summary,2827,3
+CONT01070,C119,Digital Marketing — Lecture 4: Summary,1581,4
+CONT01071,C119,Digital Marketing — Lecture 5: Examples,709,5
+CONT01072,C119,Digital Marketing — Lecture 6: Examples,2602,6
+CONT01073,C119,Digital Marketing — Lecture 7: Overview,608,7
+CONT01074,C119,Digital Marketing — Lecture 8: Examples,1268,8
+CONT01075,C119,Digital Marketing — Lecture 9: Overview,3130,9
+CONT01076,C119,Digital Marketing — Lecture 10: Overview,1683,10
+CONT01077,C119,Digital Marketing — Lecture 11: Deep Dive,3396,11
+CONT01078,C119,Digital Marketing — Lecture 12: Examples,1433,12
+CONT01079,C120,Calculus I — Lecture 1: Overview,3113,1
+CONT01080,C120,Calculus I — Lecture 2: Exercise,2022,2
+CONT01081,C120,Calculus I — Lecture 3: Deep Dive,2136,3
+CONT01082,C120,Calculus I — Lecture 4: Overview,430,4
+CONT01083,C120,Calculus I — Lecture 5: Overview,2351,5
+CONT01084,C120,Calculus I — Lecture 6: Deep Dive,1337,6
+CONT01085,C120,Calculus I — Lecture 7: Summary,2499,7
+CONT01086,C120,Calculus I — Lecture 8: Exercise,2608,8
+CONT01087,C121,Spanish Basics — Lecture 1: Summary,2831,1
+CONT01088,C121,Spanish Basics — Lecture 2: Case Study,2616,2
+CONT01089,C121,Spanish Basics — Lecture 3: Case Study,883,3
+CONT01090,C121,Spanish Basics — Lecture 4: Overview,1721,4
+CONT01091,C121,Spanish Basics — Lecture 5: Examples,3360,5
+CONT01092,C121,Spanish Basics — Lecture 6: Case Study,2265,6
+CONT01093,C121,Spanish Basics — Lecture 7: Summary,1051,7
+CONT01094,C121,Spanish Basics — Lecture 8: Deep Dive,1524,8
+CONT01095,C121,Spanish Basics — Lecture 9: Examples,2526,9
+CONT01096,C121,Spanish Basics — Lecture 10: Summary,2323,10
+CONT01097,C122,Financial Accounting — Lecture 1: Case Study,3129,1
+CONT01098,C122,Financial Accounting — Lecture 2: Examples,1433,2
+CONT01099,C122,Financial Accounting — Lecture 3: Summary,1728,3
+CONT01100,C122,Financial Accounting — Lecture 4: Overview,2373,4
+CONT01101,C122,Financial Accounting — Lecture 5: Examples,2064,5
+CONT01102,C122,Financial Accounting — Lecture 6: Summary,2934,6
+CONT01103,C122,Financial Accounting — Lecture 7: Deep Dive,1656,7
+CONT01104,C122,Financial Accounting — Lecture 8: Case Study,1258,8
+CONT01105,C122,Financial Accounting — Lecture 9: Overview,2579,9
+CONT01106,C122,Financial Accounting — Lecture 10: Exercise,1145,10
+CONT01107,C123,Web Development — Lecture 1: Case Study,304,1
+CONT01108,C123,Web Development — Lecture 2: Deep Dive,1731,2
+CONT01109,C123,Web Development — Lecture 3: Case Study,420,3
+CONT01110,C123,Web Development — Lecture 4: Exercise,1270,4
+CONT01111,C123,Web Development — Lecture 5: Exercise,707,5
+CONT01112,C123,Web Development — Lecture 6: Overview,2320,6
+CONT01113,C123,Web Development — Lecture 7: Summary,1579,7
+CONT01114,C123,Web Development — Lecture 8: Case Study,1001,8
+CONT01115,C123,Web Development — Lecture 9: Case Study,2678,9
+CONT01116,C123,Web Development — Lecture 10: Deep Dive,885,10
+CONT01117,C124,NLP Fundamentals — Lecture 1: Exercise,785,1
+CONT01118,C124,NLP Fundamentals — Lecture 2: Summary,2673,2
+CONT01119,C124,NLP Fundamentals — Lecture 3: Examples,3380,3
+CONT01120,C124,NLP Fundamentals — Lecture 4: Overview,842,4
+CONT01121,C124,NLP Fundamentals — Lecture 5: Deep Dive,1193,5
+CONT01122,C124,NLP Fundamentals — Lecture 6: Case Study,3264,6
+CONT01123,C125,Cell Biology — Lecture 1: Examples,991,1
+CONT01124,C125,Cell Biology — Lecture 2: Summary,2259,2
+CONT01125,C125,Cell Biology — Lecture 3: Examples,1606,3
+CONT01126,C125,Cell Biology — Lecture 4: Summary,1092,4
+CONT01127,C125,Cell Biology — Lecture 5: Overview,2562,5
+CONT01128,C125,Cell Biology — Lecture 6: Summary,2876,6
+CONT01129,C125,Cell Biology — Lecture 7: Examples,1377,7
+CONT01130,C125,Cell Biology — Lecture 8: Exercise,1176,8
+CONT01131,C126,Microeconomics — Lecture 1: Case Study,1577,1
+CONT01132,C126,Microeconomics — Lecture 2: Examples,508,2
+CONT01133,C126,Microeconomics — Lecture 3: Case Study,1675,3
+CONT01134,C126,Microeconomics — Lecture 4: Summary,1069,4
+CONT01135,C126,Microeconomics — Lecture 5: Examples,1875,5
+CONT01136,C126,Microeconomics — Lecture 6: Summary,2601,6
+CONT01137,C126,Microeconomics — Lecture 7: Examples,1294,7
+CONT01138,C127,Cloud Computing — Lecture 1: Examples,1109,1
+CONT01139,C127,Cloud Computing — Lecture 2: Summary,3049,2
+CONT01140,C127,Cloud Computing — Lecture 3: Deep Dive,558,3
+CONT01141,C127,Cloud Computing — Lecture 4: Exercise,2897,4
+CONT01142,C127,Cloud Computing — Lecture 5: Exercise,2153,5
+CONT01143,C127,Cloud Computing — Lecture 6: Summary,2958,6
+CONT01144,C127,Cloud Computing — Lecture 7: Exercise,2212,7
+CONT01145,C127,Cloud Computing — Lecture 8: Summary,1052,8
+CONT01146,C127,Cloud Computing — Lecture 9: Case Study,3578,9
+CONT01147,C127,Cloud Computing — Lecture 10: Deep Dive,731,10
+CONT01148,C127,Cloud Computing — Lecture 11: Examples,2389,11
+CONT01149,C127,Cloud Computing — Lecture 12: Overview,1594,12
+CONT01150,C128,Cloud Computing — Lecture 1: Exercise,2427,1
+CONT01151,C128,Cloud Computing — Lecture 2: Case Study,934,2
+CONT01152,C128,Cloud Computing — Lecture 3: Examples,1819,3
+CONT01153,C128,Cloud Computing — Lecture 4: Overview,2034,4
+CONT01154,C128,Cloud Computing — Lecture 5: Examples,2026,5
+CONT01155,C128,Cloud Computing — Lecture 6: Examples,1643,6
+CONT01156,C128,Cloud Computing — Lecture 7: Examples,1267,7
+CONT01157,C128,Cloud Computing — Lecture 8: Case Study,1604,8
+CONT01158,C128,Cloud Computing — Lecture 9: Examples,2316,9
+CONT01159,C129,Human-Computer Interaction — Lecture 1: Summary,1555,1
+CONT01160,C129,Human-Computer Interaction — Lecture 2: Deep Dive,1147,2
+CONT01161,C129,Human-Computer Interaction — Lecture 3: Examples,683,3
+CONT01162,C129,Human-Computer Interaction — Lecture 4: Summary,2418,4
+CONT01163,C129,Human-Computer Interaction — Lecture 5: Case Study,1545,5
+CONT01164,C129,Human-Computer Interaction — Lecture 6: Examples,912,6
+CONT01165,C129,Human-Computer Interaction — Lecture 7: Case Study,857,7
+CONT01166,C129,Human-Computer Interaction — Lecture 8: Deep Dive,1234,8
+CONT01167,C129,Human-Computer Interaction — Lecture 9: Examples,2854,9
+CONT01168,C129,Human-Computer Interaction — Lecture 10: Overview,2406,10
+CONT01169,C129,Human-Computer Interaction — Lecture 11: Overview,2709,11
+CONT01170,C130,NLP Fundamentals — Lecture 1: Overview,3032,1
+CONT01171,C130,NLP Fundamentals — Lecture 2: Exercise,2971,2
+CONT01172,C130,NLP Fundamentals — Lecture 3: Deep Dive,2737,3
+CONT01173,C130,NLP Fundamentals — Lecture 4: Overview,2713,4
+CONT01174,C130,NLP Fundamentals — Lecture 5: Exercise,2762,5
+CONT01175,C130,NLP Fundamentals — Lecture 6: Overview,1873,6
+CONT01176,C130,NLP Fundamentals — Lecture 7: Overview,1344,7
+CONT01177,C130,NLP Fundamentals — Lecture 8: Case Study,2763,8
+CONT01178,C131,Calculus II — Lecture 1: Summary,2311,1
+CONT01179,C131,Calculus II — Lecture 2: Examples,1390,2
+CONT01180,C131,Calculus II — Lecture 3: Case Study,3299,3
+CONT01181,C131,Calculus II — Lecture 4: Exercise,1342,4
+CONT01182,C131,Calculus II — Lecture 5: Summary,511,5
+CONT01183,C131,Calculus II — Lecture 6: Overview,1493,6
+CONT01184,C132,Deep Learning — Lecture 1: Overview,3308,1
+CONT01185,C132,Deep Learning — Lecture 2: Examples,2268,2
+CONT01186,C132,Deep Learning — Lecture 3: Summary,661,3
+CONT01187,C132,Deep Learning — Lecture 4: Summary,3435,4
+CONT01188,C132,Deep Learning — Lecture 5: Examples,2446,5
+CONT01189,C132,Deep Learning — Lecture 6: Deep Dive,2066,6
+CONT01190,C132,Deep Learning — Lecture 7: Exercise,2262,7
+CONT01191,C133,Photography — Lecture 1: Summary,1172,1
+CONT01192,C133,Photography — Lecture 2: Examples,2202,2
+CONT01193,C133,Photography — Lecture 3: Overview,2302,3
+CONT01194,C133,Photography — Lecture 4: Overview,2666,4
+CONT01195,C133,Photography — Lecture 5: Case Study,984,5
+CONT01196,C133,Photography — Lecture 6: Overview,1859,6
+CONT01197,C134,Macroeconomics — Lecture 1: Deep Dive,2225,1
+CONT01198,C134,Macroeconomics — Lecture 2: Summary,3294,2
+CONT01199,C134,Macroeconomics — Lecture 3: Overview,3189,3
+CONT01200,C134,Macroeconomics — Lecture 4: Deep Dive,3471,4
+CONT01201,C134,Macroeconomics — Lecture 5: Deep Dive,1597,5
+CONT01202,C134,Macroeconomics — Lecture 6: Deep Dive,1202,6
+CONT01203,C134,Macroeconomics — Lecture 7: Exercise,326,7
+CONT01204,C134,Macroeconomics — Lecture 8: Summary,2132,8
+CONT01205,C134,Macroeconomics — Lecture 9: Case Study,3436,9
+CONT01206,C135,Financial Accounting — Lecture 1: Examples,3266,1
+CONT01207,C135,Financial Accounting — Lecture 2: Exercise,358,2
+CONT01208,C135,Financial Accounting — Lecture 3: Examples,2886,3
+CONT01209,C135,Financial Accounting — Lecture 4: Overview,2485,4
+CONT01210,C135,Financial Accounting — Lecture 5: Overview,794,5
+CONT01211,C135,Financial Accounting — Lecture 6: Summary,1319,6
+CONT01212,C135,Financial Accounting — Lecture 7: Case Study,2975,7
+CONT01213,C135,Financial Accounting — Lecture 8: Deep Dive,2781,8
+CONT01214,C136,Python Programming — Lecture 1: Summary,1427,1
+CONT01215,C136,Python Programming — Lecture 2: Examples,1083,2
+CONT01216,C136,Python Programming — Lecture 3: Deep Dive,2908,3
+CONT01217,C136,Python Programming — Lecture 4: Deep Dive,2120,4
+CONT01218,C136,Python Programming — Lecture 5: Overview,506,5
+CONT01219,C136,Python Programming — Lecture 6: Overview,1542,6
+CONT01220,C137,NLP Fundamentals — Lecture 1: Overview,672,1
+CONT01221,C137,NLP Fundamentals — Lecture 2: Case Study,1596,2
+CONT01222,C137,NLP Fundamentals — Lecture 3: Examples,2804,3
+CONT01223,C137,NLP Fundamentals — Lecture 4: Case Study,2606,4
+CONT01224,C137,NLP Fundamentals — Lecture 5: Deep Dive,2116,5
+CONT01225,C137,NLP Fundamentals — Lecture 6: Summary,1687,6
+CONT01226,C137,NLP Fundamentals — Lecture 7: Case Study,1593,7
+CONT01227,C137,NLP Fundamentals — Lecture 8: Deep Dive,1105,8
+CONT01228,C138,Macroeconomics — Lecture 1: Exercise,1802,1
+CONT01229,C138,Macroeconomics — Lecture 2: Case Study,2885,2
+CONT01230,C138,Macroeconomics — Lecture 3: Examples,473,3
+CONT01231,C138,Macroeconomics — Lecture 4: Exercise,1971,4
+CONT01232,C138,Macroeconomics — Lecture 5: Examples,2672,5
+CONT01233,C138,Macroeconomics — Lecture 6: Case Study,3014,6
+CONT01234,C138,Macroeconomics — Lecture 7: Summary,679,7
+CONT01235,C139,Entrepreneurship — Lecture 1: Exercise,3120,1
+CONT01236,C139,Entrepreneurship — Lecture 2: Summary,2796,2
+CONT01237,C139,Entrepreneurship — Lecture 3: Deep Dive,2162,3
+CONT01238,C139,Entrepreneurship — Lecture 4: Overview,1604,4
+CONT01239,C139,Entrepreneurship — Lecture 5: Deep Dive,2090,5
+CONT01240,C139,Entrepreneurship — Lecture 6: Overview,901,6
+CONT01241,C140,Data Structures — Lecture 1: Deep Dive,3167,1
+CONT01242,C140,Data Structures — Lecture 2: Case Study,1475,2
+CONT01243,C140,Data Structures — Lecture 3: Overview,868,3
+CONT01244,C140,Data Structures — Lecture 4: Examples,1886,4
+CONT01245,C140,Data Structures — Lecture 5: Case Study,3115,5
+CONT01246,C140,Data Structures — Lecture 6: Case Study,1530,6
+CONT01247,C140,Data Structures — Lecture 7: Deep Dive,1353,7
+CONT01248,C140,Data Structures — Lecture 8: Exercise,3502,8
+CONT01249,C140,Data Structures — Lecture 9: Deep Dive,1918,9
+CONT01250,C140,Data Structures — Lecture 10: Overview,1440,10
+CONT01251,C140,Data Structures — Lecture 11: Case Study,492,11
+CONT01252,C141,Calculus II — Lecture 1: Overview,2488,1
+CONT01253,C141,Calculus II — Lecture 2: Examples,3015,2
+CONT01254,C141,Calculus II — Lecture 3: Case Study,3322,3
+CONT01255,C141,Calculus II — Lecture 4: Case Study,2193,4
+CONT01256,C141,Calculus II — Lecture 5: Overview,2128,5
+CONT01257,C141,Calculus II — Lecture 6: Exercise,587,6
+CONT01258,C141,Calculus II — Lecture 7: Case Study,3163,7
+CONT01259,C141,Calculus II — Lecture 8: Overview,335,8
+CONT01260,C142,Game Design — Lecture 1: Summary,340,1
+CONT01261,C142,Game Design — Lecture 2: Case Study,2987,2
+CONT01262,C142,Game Design — Lecture 3: Overview,3078,3
+CONT01263,C142,Game Design — Lecture 4: Examples,2445,4
+CONT01264,C142,Game Design — Lecture 5: Exercise,2688,5
+CONT01265,C142,Game Design — Lecture 6: Summary,1754,6
+CONT01266,C142,Game Design — Lecture 7: Summary,2296,7
+CONT01267,C142,Game Design — Lecture 8: Deep Dive,2737,8
+CONT01268,C142,Game Design — Lecture 9: Exercise,1376,9
+CONT01269,C142,Game Design — Lecture 10: Exercise,2842,10
+CONT01270,C142,Game Design — Lecture 11: Exercise,623,11
+CONT01271,C143,Marketing 101 — Lecture 1: Exercise,1406,1
+CONT01272,C143,Marketing 101 — Lecture 2: Examples,3453,2
+CONT01273,C143,Marketing 101 — Lecture 3: Summary,3241,3
+CONT01274,C143,Marketing 101 — Lecture 4: Summary,3296,4
+CONT01275,C143,Marketing 101 — Lecture 5: Deep Dive,1334,5
+CONT01276,C143,Marketing 101 — Lecture 6: Overview,2284,6
+CONT01277,C143,Marketing 101 — Lecture 7: Deep Dive,1357,7
+CONT01278,C144,French Basics — Lecture 1: Deep Dive,3153,1
+CONT01279,C144,French Basics — Lecture 2: Case Study,3387,2
+CONT01280,C144,French Basics — Lecture 3: Exercise,314,3
+CONT01281,C144,French Basics — Lecture 4: Case Study,1938,4
+CONT01282,C144,French Basics — Lecture 5: Deep Dive,2428,5
+CONT01283,C144,French Basics — Lecture 6: Examples,1373,6
+CONT01284,C145,Statistics — Lecture 1: Deep Dive,1781,1
+CONT01285,C145,Statistics — Lecture 2: Examples,684,2
+CONT01286,C145,Statistics — Lecture 3: Overview,2841,3
+CONT01287,C145,Statistics — Lecture 4: Case Study,3250,4
+CONT01288,C145,Statistics — Lecture 5: Examples,748,5
+CONT01289,C145,Statistics — Lecture 6: Overview,1485,6
+CONT01290,C145,Statistics — Lecture 7: Examples,1001,7
+CONT01291,C145,Statistics — Lecture 8: Overview,2268,8
+CONT01292,C145,Statistics — Lecture 9: Summary,492,9
+CONT01293,C146,Macroeconomics — Lecture 1: Case Study,1964,1
+CONT01294,C146,Macroeconomics — Lecture 2: Exercise,1366,2
+CONT01295,C146,Macroeconomics — Lecture 3: Overview,403,3
+CONT01296,C146,Macroeconomics — Lecture 4: Exercise,2762,4
+CONT01297,C146,Macroeconomics — Lecture 5: Case Study,2620,5
+CONT01298,C146,Macroeconomics — Lecture 6: Case Study,1848,6
+CONT01299,C146,Macroeconomics — Lecture 7: Case Study,1723,7
+CONT01300,C146,Macroeconomics — Lecture 8: Examples,3047,8
+CONT01301,C146,Macroeconomics — Lecture 9: Examples,1260,9
+CONT01302,C147,Deep Learning — Lecture 1: Examples,2946,1
+CONT01303,C147,Deep Learning — Lecture 2: Examples,3044,2
+CONT01304,C147,Deep Learning — Lecture 3: Exercise,2936,3
+CONT01305,C147,Deep Learning — Lecture 4: Exercise,2182,4
+CONT01306,C147,Deep Learning — Lecture 5: Overview,3566,5
+CONT01307,C147,Deep Learning — Lecture 6: Overview,1192,6
+CONT01308,C148,Network Fundamentals — Lecture 1: Summary,3038,1
+CONT01309,C148,Network Fundamentals — Lecture 2: Examples,2581,2
+CONT01310,C148,Network Fundamentals — Lecture 3: Summary,2377,3
+CONT01311,C148,Network Fundamentals — Lecture 4: Deep Dive,602,4
+CONT01312,C148,Network Fundamentals — Lecture 5: Overview,2477,5
+CONT01313,C148,Network Fundamentals — Lecture 6: Examples,2221,6
+CONT01314,C148,Network Fundamentals — Lecture 7: Examples,1949,7
+CONT01315,C148,Network Fundamentals — Lecture 8: Exercise,3216,8
+CONT01316,C148,Network Fundamentals — Lecture 9: Summary,3445,9
+CONT01317,C149,Spanish Basics — Lecture 1: Exercise,2031,1
+CONT01318,C149,Spanish Basics — Lecture 2: Exercise,3143,2
+CONT01319,C149,Spanish Basics — Lecture 3: Case Study,1914,3
+CONT01320,C149,Spanish Basics — Lecture 4: Case Study,344,4
+CONT01321,C149,Spanish Basics — Lecture 5: Examples,2259,5
+CONT01322,C149,Spanish Basics — Lecture 6: Summary,3429,6
+CONT01323,C149,Spanish Basics — Lecture 7: Case Study,2131,7
+CONT01324,C149,Spanish Basics — Lecture 8: Overview,2312,8
+CONT01325,C149,Spanish Basics — Lecture 9: Case Study,2918,9
+CONT01326,C149,Spanish Basics — Lecture 10: Overview,1050,10
+CONT01327,C150,Spanish Basics — Lecture 1: Deep Dive,746,1
+CONT01328,C150,Spanish Basics — Lecture 2: Exercise,1151,2
+CONT01329,C150,Spanish Basics — Lecture 3: Exercise,1098,3
+CONT01330,C150,Spanish Basics — Lecture 4: Examples,2710,4
+CONT01331,C150,Spanish Basics — Lecture 5: Examples,810,5
+CONT01332,C150,Spanish Basics — Lecture 6: Deep Dive,962,6
+CONT01333,C150,Spanish Basics — Lecture 7: Deep Dive,426,7
+CONT01334,C150,Spanish Basics — Lecture 8: Examples,1092,8
+CONT01335,C150,Spanish Basics — Lecture 9: Deep Dive,2164,9
+CONT01336,C150,Spanish Basics — Lecture 10: Overview,2791,10
+CONT01337,C151,Python Programming — Lecture 1: Case Study,2388,1
+CONT01338,C151,Python Programming — Lecture 2: Case Study,2412,2
+CONT01339,C151,Python Programming — Lecture 3: Exercise,3335,3
+CONT01340,C151,Python Programming — Lecture 4: Summary,840,4
+CONT01341,C151,Python Programming — Lecture 5: Examples,1234,5
+CONT01342,C151,Python Programming — Lecture 6: Examples,698,6
+CONT01343,C151,Python Programming — Lecture 7: Overview,2430,7
+CONT01344,C151,Python Programming — Lecture 8: Case Study,2996,8
+CONT01345,C151,Python Programming — Lecture 9: Case Study,1711,9
+CONT01346,C151,Python Programming — Lecture 10: Examples,2735,10
+CONT01347,C152,Calculus I — Lecture 1: Deep Dive,1963,1
+CONT01348,C152,Calculus I — Lecture 2: Summary,2761,2
+CONT01349,C152,Calculus I — Lecture 3: Overview,2341,3
+CONT01350,C152,Calculus I — Lecture 4: Summary,355,4
+CONT01351,C152,Calculus I — Lecture 5: Exercise,1601,5
+CONT01352,C152,Calculus I — Lecture 6: Case Study,1154,6
+CONT01353,C152,Calculus I — Lecture 7: Case Study,3033,7
+CONT01354,C152,Calculus I — Lecture 8: Exercise,1592,8
+CONT01355,C152,Calculus I — Lecture 9: Deep Dive,1020,9
+CONT01356,C152,Calculus I — Lecture 10: Summary,2010,10
+CONT01357,C152,Calculus I — Lecture 11: Exercise,2512,11
+CONT01358,C152,Calculus I — Lecture 12: Overview,1837,12
+CONT01359,C153,Classical Mechanics — Lecture 1: Overview,1221,1
+CONT01360,C153,Classical Mechanics — Lecture 2: Examples,3575,2
+CONT01361,C153,Classical Mechanics — Lecture 3: Examples,2420,3
+CONT01362,C153,Classical Mechanics — Lecture 4: Case Study,2873,4
+CONT01363,C153,Classical Mechanics — Lecture 5: Summary,2068,5
+CONT01364,C153,Classical Mechanics — Lecture 6: Deep Dive,3523,6
+CONT01365,C153,Classical Mechanics — Lecture 7: Overview,3582,7
+CONT01366,C153,Classical Mechanics — Lecture 8: Examples,3325,8
+CONT01367,C153,Classical Mechanics — Lecture 9: Deep Dive,558,9
+CONT01368,C153,Classical Mechanics — Lecture 10: Exercise,2163,10
+CONT01369,C153,Classical Mechanics — Lecture 11: Exercise,3464,11
+CONT01370,C153,Classical Mechanics — Lecture 12: Overview,2295,12
+CONT01371,C154,Cybersecurity Basics — Lecture 1: Summary,620,1
+CONT01372,C154,Cybersecurity Basics — Lecture 2: Case Study,2973,2
+CONT01373,C154,Cybersecurity Basics — Lecture 3: Exercise,440,3
+CONT01374,C154,Cybersecurity Basics — Lecture 4: Overview,643,4
+CONT01375,C154,Cybersecurity Basics — Lecture 5: Summary,2171,5
+CONT01376,C154,Cybersecurity Basics — Lecture 6: Summary,718,6
+CONT01377,C154,Cybersecurity Basics — Lecture 7: Summary,1284,7
+CONT01378,C155,Databases — Lecture 1: Examples,446,1
+CONT01379,C155,Databases — Lecture 2: Summary,1563,2
+CONT01380,C155,Databases — Lecture 3: Deep Dive,3226,3
+CONT01381,C155,Databases — Lecture 4: Summary,447,4
+CONT01382,C155,Databases — Lecture 5: Examples,968,5
+CONT01383,C155,Databases — Lecture 6: Examples,1507,6
+CONT01384,C155,Databases — Lecture 7: Overview,1849,7
+CONT01385,C155,Databases — Lecture 8: Summary,1607,8
+CONT01386,C155,Databases — Lecture 9: Overview,2418,9
+CONT01387,C156,Project Management — Lecture 1: Deep Dive,2691,1
+CONT01388,C156,Project Management — Lecture 2: Case Study,1348,2
+CONT01389,C156,Project Management — Lecture 3: Exercise,2146,3
+CONT01390,C156,Project Management — Lecture 4: Case Study,750,4
+CONT01391,C156,Project Management — Lecture 5: Case Study,1798,5
+CONT01392,C156,Project Management — Lecture 6: Exercise,740,6
+CONT01393,C156,Project Management — Lecture 7: Overview,3275,7
+CONT01394,C156,Project Management — Lecture 8: Deep Dive,884,8
+CONT01395,C156,Project Management — Lecture 9: Examples,2833,9
+CONT01396,C157,Calculus II — Lecture 1: Summary,1469,1
+CONT01397,C157,Calculus II — Lecture 2: Examples,735,2
+CONT01398,C157,Calculus II — Lecture 3: Deep Dive,1265,3
+CONT01399,C157,Calculus II — Lecture 4: Summary,3128,4
+CONT01400,C157,Calculus II — Lecture 5: Overview,3411,5
+CONT01401,C157,Calculus II — Lecture 6: Exercise,3055,6
+CONT01402,C157,Calculus II — Lecture 7: Overview,2723,7
+CONT01403,C157,Calculus II — Lecture 8: Deep Dive,1571,8
+CONT01404,C157,Calculus II — Lecture 9: Overview,318,9
+CONT01405,C158,Algorithms — Lecture 1: Case Study,858,1
+CONT01406,C158,Algorithms — Lecture 2: Exercise,2086,2
+CONT01407,C158,Algorithms — Lecture 3: Examples,3163,3
+CONT01408,C158,Algorithms — Lecture 4: Exercise,2303,4
+CONT01409,C158,Algorithms — Lecture 5: Case Study,1894,5
+CONT01410,C158,Algorithms — Lecture 6: Exercise,2265,6
+CONT01411,C158,Algorithms — Lecture 7: Examples,1337,7
+CONT01412,C158,Algorithms — Lecture 8: Deep Dive,1953,8
+CONT01413,C158,Algorithms — Lecture 9: Summary,674,9
+CONT01414,C158,Algorithms — Lecture 10: Examples,2178,10
+CONT01415,C158,Algorithms — Lecture 11: Deep Dive,3115,11
+CONT01416,C158,Algorithms — Lecture 12: Exercise,3229,12
+CONT01417,C159,Cloud Computing — Lecture 1: Examples,2474,1
+CONT01418,C159,Cloud Computing — Lecture 2: Overview,2921,2
+CONT01419,C159,Cloud Computing — Lecture 3: Summary,3022,3
+CONT01420,C159,Cloud Computing — Lecture 4: Case Study,2984,4
+CONT01421,C159,Cloud Computing — Lecture 5: Overview,3031,5
+CONT01422,C159,Cloud Computing — Lecture 6: Deep Dive,1794,6
+CONT01423,C159,Cloud Computing — Lecture 7: Deep Dive,2606,7
+CONT01424,C159,Cloud Computing — Lecture 8: Overview,2129,8
+CONT01425,C159,Cloud Computing — Lecture 9: Case Study,3490,9
+CONT01426,C159,Cloud Computing — Lecture 10: Deep Dive,667,10
+CONT01427,C159,Cloud Computing — Lecture 11: Examples,2936,11
+CONT01428,C160,Cell Biology — Lecture 1: Examples,1531,1
+CONT01429,C160,Cell Biology — Lecture 2: Examples,3104,2
+CONT01430,C160,Cell Biology — Lecture 3: Examples,1554,3
+CONT01431,C160,Cell Biology — Lecture 4: Overview,1191,4
+CONT01432,C160,Cell Biology — Lecture 5: Exercise,1759,5
+CONT01433,C160,Cell Biology — Lecture 6: Summary,2276,6
+CONT01434,C160,Cell Biology — Lecture 7: Examples,422,7
+CONT01435,C160,Cell Biology — Lecture 8: Deep Dive,3401,8
+CONT01436,C160,Cell Biology — Lecture 9: Overview,2150,9
+CONT01437,C160,Cell Biology — Lecture 10: Summary,2457,10
+CONT01438,C160,Cell Biology — Lecture 11: Case Study,498,11
+CONT01439,C161,Human-Computer Interaction — Lecture 1: Overview,582,1
+CONT01440,C161,Human-Computer Interaction — Lecture 2: Examples,1130,2
+CONT01441,C161,Human-Computer Interaction — Lecture 3: Exercise,3538,3
+CONT01442,C161,Human-Computer Interaction — Lecture 4: Deep Dive,1994,4
+CONT01443,C161,Human-Computer Interaction — Lecture 5: Examples,2125,5
+CONT01444,C161,Human-Computer Interaction — Lecture 6: Deep Dive,2883,6
+CONT01445,C162,Business Management — Lecture 1: Examples,2466,1
+CONT01446,C162,Business Management — Lecture 2: Case Study,2900,2
+CONT01447,C162,Business Management — Lecture 3: Case Study,932,3
+CONT01448,C162,Business Management — Lecture 4: Summary,2799,4
+CONT01449,C162,Business Management — Lecture 5: Deep Dive,2203,5
+CONT01450,C162,Business Management — Lecture 6: Summary,457,6
+CONT01451,C162,Business Management — Lecture 7: Deep Dive,2705,7
+CONT01452,C162,Business Management — Lecture 8: Examples,3278,8
+CONT01453,C162,Business Management — Lecture 9: Exercise,1804,9
+CONT01454,C162,Business Management — Lecture 10: Overview,3020,10
+CONT01455,C163,Organic Chemistry — Lecture 1: Summary,2368,1
+CONT01456,C163,Organic Chemistry — Lecture 2: Examples,3233,2
+CONT01457,C163,Organic Chemistry — Lecture 3: Exercise,2498,3
+CONT01458,C163,Organic Chemistry — Lecture 4: Case Study,3493,4
+CONT01459,C163,Organic Chemistry — Lecture 5: Summary,671,5
+CONT01460,C163,Organic Chemistry — Lecture 6: Examples,2097,6
+CONT01461,C164,Business Management — Lecture 1: Summary,2953,1
+CONT01462,C164,Business Management — Lecture 2: Summary,571,2
+CONT01463,C164,Business Management — Lecture 3: Deep Dive,1429,3
+CONT01464,C164,Business Management — Lecture 4: Exercise,1772,4
+CONT01465,C164,Business Management — Lecture 5: Deep Dive,1952,5
+CONT01466,C164,Business Management — Lecture 6: Overview,1851,6
+CONT01467,C164,Business Management — Lecture 7: Deep Dive,3351,7
+CONT01468,C164,Business Management — Lecture 8: Deep Dive,1016,8
+CONT01469,C164,Business Management — Lecture 9: Summary,3491,9
+CONT01470,C164,Business Management — Lecture 10: Case Study,2142,10
+CONT01471,C164,Business Management — Lecture 11: Deep Dive,2804,11
+CONT01472,C164,Business Management — Lecture 12: Summary,987,12
+CONT01473,C165,Algorithms — Lecture 1: Case Study,2776,1
+CONT01474,C165,Algorithms — Lecture 2: Deep Dive,1486,2
+CONT01475,C165,Algorithms — Lecture 3: Exercise,2177,3
+CONT01476,C165,Algorithms — Lecture 4: Summary,2284,4
+CONT01477,C165,Algorithms — Lecture 5: Examples,3169,5
+CONT01478,C165,Algorithms — Lecture 6: Case Study,325,6
+CONT01479,C165,Algorithms — Lecture 7: Deep Dive,1062,7
+CONT01480,C165,Algorithms — Lecture 8: Deep Dive,3236,8
+CONT01481,C165,Algorithms — Lecture 9: Summary,3550,9
+CONT01482,C166,Macroeconomics — Lecture 1: Overview,1271,1
+CONT01483,C166,Macroeconomics — Lecture 2: Deep Dive,1566,2
+CONT01484,C166,Macroeconomics — Lecture 3: Examples,936,3
+CONT01485,C166,Macroeconomics — Lecture 4: Examples,2561,4
+CONT01486,C166,Macroeconomics — Lecture 5: Overview,920,5
+CONT01487,C166,Macroeconomics — Lecture 6: Examples,1312,6
+CONT01488,C166,Macroeconomics — Lecture 7: Case Study,2567,7
+CONT01489,C166,Macroeconomics — Lecture 8: Examples,3373,8
+CONT01490,C166,Macroeconomics — Lecture 9: Summary,727,9
+CONT01491,C166,Macroeconomics — Lecture 10: Deep Dive,2818,10
+CONT01492,C166,Macroeconomics — Lecture 11: Deep Dive,1663,11
+CONT01493,C167,Organic Chemistry — Lecture 1: Overview,987,1
+CONT01494,C167,Organic Chemistry — Lecture 2: Exercise,1949,2
+CONT01495,C167,Organic Chemistry — Lecture 3: Examples,2809,3
+CONT01496,C167,Organic Chemistry — Lecture 4: Exercise,2508,4
+CONT01497,C167,Organic Chemistry — Lecture 5: Examples,2731,5
+CONT01498,C167,Organic Chemistry — Lecture 6: Summary,2758,6
+CONT01499,C167,Organic Chemistry — Lecture 7: Exercise,3107,7
+CONT01500,C167,Organic Chemistry — Lecture 8: Overview,2247,8
+CONT01501,C167,Organic Chemistry — Lecture 9: Case Study,1543,9
+CONT01502,C167,Organic Chemistry — Lecture 10: Examples,2616,10
+CONT01503,C168,Data Structures — Lecture 1: Exercise,3442,1
+CONT01504,C168,Data Structures — Lecture 2: Case Study,908,2
+CONT01505,C168,Data Structures — Lecture 3: Case Study,929,3
+CONT01506,C168,Data Structures — Lecture 4: Overview,751,4
+CONT01507,C168,Data Structures — Lecture 5: Case Study,862,5
+CONT01508,C168,Data Structures — Lecture 6: Deep Dive,2565,6
+CONT01509,C168,Data Structures — Lecture 7: Examples,2832,7
+CONT01510,C169,Classical Mechanics — Lecture 1: Exercise,2777,1
+CONT01511,C169,Classical Mechanics — Lecture 2: Summary,3284,2
+CONT01512,C169,Classical Mechanics — Lecture 3: Overview,415,3
+CONT01513,C169,Classical Mechanics — Lecture 4: Exercise,428,4
+CONT01514,C169,Classical Mechanics — Lecture 5: Summary,452,5
+CONT01515,C169,Classical Mechanics — Lecture 6: Overview,2516,6
+CONT01516,C169,Classical Mechanics — Lecture 7: Case Study,2812,7
+CONT01517,C170,Calculus I — Lecture 1: Overview,2117,1
+CONT01518,C170,Calculus I — Lecture 2: Case Study,3354,2
+CONT01519,C170,Calculus I — Lecture 3: Deep Dive,3280,3
+CONT01520,C170,Calculus I — Lecture 4: Summary,1341,4
+CONT01521,C170,Calculus I — Lecture 5: Examples,513,5
+CONT01522,C170,Calculus I — Lecture 6: Deep Dive,3238,6
+CONT01523,C170,Calculus I — Lecture 7: Examples,1978,7
+CONT01524,C170,Calculus I — Lecture 8: Summary,1599,8
+CONT01525,C171,Network Fundamentals — Lecture 1: Examples,2426,1
+CONT01526,C171,Network Fundamentals — Lecture 2: Examples,2274,2
+CONT01527,C171,Network Fundamentals — Lecture 3: Overview,1685,3
+CONT01528,C171,Network Fundamentals — Lecture 4: Deep Dive,1614,4
+CONT01529,C171,Network Fundamentals — Lecture 5: Examples,1823,5
+CONT01530,C171,Network Fundamentals — Lecture 6: Deep Dive,1073,6
+CONT01531,C171,Network Fundamentals — Lecture 7: Overview,1276,7
+CONT01532,C172,Artificial Intelligence — Lecture 1: Summary,3587,1
+CONT01533,C172,Artificial Intelligence — Lecture 2: Deep Dive,3458,2
+CONT01534,C172,Artificial Intelligence — Lecture 3: Deep Dive,1247,3
+CONT01535,C172,Artificial Intelligence — Lecture 4: Summary,1977,4
+CONT01536,C172,Artificial Intelligence — Lecture 5: Deep Dive,1177,5
+CONT01537,C172,Artificial Intelligence — Lecture 6: Examples,1193,6
+CONT01538,C172,Artificial Intelligence — Lecture 7: Exercise,2931,7
+CONT01539,C172,Artificial Intelligence — Lecture 8: Summary,3341,8
+CONT01540,C172,Artificial Intelligence — Lecture 9: Case Study,797,9
+CONT01541,C172,Artificial Intelligence — Lecture 10: Summary,1319,10
+CONT01542,C172,Artificial Intelligence — Lecture 11: Case Study,2621,11
+CONT01543,C173,Machine Learning — Lecture 1: Examples,707,1
+CONT01544,C173,Machine Learning — Lecture 2: Examples,1825,2
+CONT01545,C173,Machine Learning — Lecture 3: Summary,587,3
+CONT01546,C173,Machine Learning — Lecture 4: Overview,374,4
+CONT01547,C173,Machine Learning — Lecture 5: Case Study,2858,5
+CONT01548,C173,Machine Learning — Lecture 6: Case Study,2279,6
+CONT01549,C173,Machine Learning — Lecture 7: Case Study,856,7
+CONT01550,C173,Machine Learning — Lecture 8: Examples,3131,8
+CONT01551,C173,Machine Learning — Lecture 9: Case Study,3500,9
+CONT01552,C173,Machine Learning — Lecture 10: Case Study,776,10
+CONT01553,C173,Machine Learning — Lecture 11: Summary,598,11
+CONT01554,C174,Thermodynamics — Lecture 1: Case Study,2116,1
+CONT01555,C174,Thermodynamics — Lecture 2: Deep Dive,1773,2
+CONT01556,C174,Thermodynamics — Lecture 3: Case Study,3314,3
+CONT01557,C174,Thermodynamics — Lecture 4: Deep Dive,615,4
+CONT01558,C174,Thermodynamics — Lecture 5: Summary,1933,5
+CONT01559,C174,Thermodynamics — Lecture 6: Overview,2622,6
+CONT01560,C174,Thermodynamics — Lecture 7: Case Study,3546,7
+CONT01561,C174,Thermodynamics — Lecture 8: Exercise,3461,8
+CONT01562,C174,Thermodynamics — Lecture 9: Overview,1456,9
+CONT01563,C175,Cloud Computing — Lecture 1: Case Study,2302,1
+CONT01564,C175,Cloud Computing — Lecture 2: Exercise,1878,2
+CONT01565,C175,Cloud Computing — Lecture 3: Examples,1792,3
+CONT01566,C175,Cloud Computing — Lecture 4: Examples,2662,4
+CONT01567,C175,Cloud Computing — Lecture 5: Examples,1784,5
+CONT01568,C175,Cloud Computing — Lecture 6: Exercise,905,6
+CONT01569,C176,Financial Accounting — Lecture 1: Deep Dive,750,1
+CONT01570,C176,Financial Accounting — Lecture 2: Deep Dive,1422,2
+CONT01571,C176,Financial Accounting — Lecture 3: Exercise,3348,3
+CONT01572,C176,Financial Accounting — Lecture 4: Overview,1785,4
+CONT01573,C176,Financial Accounting — Lecture 5: Deep Dive,981,5
+CONT01574,C176,Financial Accounting — Lecture 6: Examples,1040,6
+CONT01575,C176,Financial Accounting — Lecture 7: Deep Dive,3479,7
+CONT01576,C176,Financial Accounting — Lecture 8: Deep Dive,2456,8
+CONT01577,C176,Financial Accounting — Lecture 9: Deep Dive,752,9
+CONT01578,C176,Financial Accounting — Lecture 10: Case Study,1918,10
+CONT01579,C176,Financial Accounting — Lecture 11: Deep Dive,2415,11
+CONT01580,C176,Financial Accounting — Lecture 12: Exercise,3274,12
+CONT01581,C177,Deep Learning — Lecture 1: Exercise,1062,1
+CONT01582,C177,Deep Learning — Lecture 2: Exercise,944,2
+CONT01583,C177,Deep Learning — Lecture 3: Case Study,1385,3
+CONT01584,C177,Deep Learning — Lecture 4: Summary,1927,4
+CONT01585,C177,Deep Learning — Lecture 5: Deep Dive,2272,5
+CONT01586,C177,Deep Learning — Lecture 6: Case Study,1032,6
+CONT01587,C177,Deep Learning — Lecture 7: Examples,2168,7
+CONT01588,C177,Deep Learning — Lecture 8: Summary,1782,8
+CONT01589,C177,Deep Learning — Lecture 9: Deep Dive,785,9
+CONT01590,C178,Entrepreneurship — Lecture 1: Case Study,3017,1
+CONT01591,C178,Entrepreneurship — Lecture 2: Overview,1980,2
+CONT01592,C178,Entrepreneurship — Lecture 3: Overview,1327,3
+CONT01593,C178,Entrepreneurship — Lecture 4: Summary,1556,4
+CONT01594,C178,Entrepreneurship — Lecture 5: Case Study,2467,5
+CONT01595,C178,Entrepreneurship — Lecture 6: Exercise,708,6
+CONT01596,C178,Entrepreneurship — Lecture 7: Examples,3442,7
+CONT01597,C178,Entrepreneurship — Lecture 8: Overview,1067,8
+CONT01598,C178,Entrepreneurship — Lecture 9: Deep Dive,2161,9
+CONT01599,C178,Entrepreneurship — Lecture 10: Case Study,1469,10
+CONT01600,C178,Entrepreneurship — Lecture 11: Exercise,2417,11
+CONT01601,C179,French Basics — Lecture 1: Exercise,2064,1
+CONT01602,C179,French Basics — Lecture 2: Summary,1240,2
+CONT01603,C179,French Basics — Lecture 3: Examples,1813,3
+CONT01604,C179,French Basics — Lecture 4: Examples,3188,4
+CONT01605,C179,French Basics — Lecture 5: Summary,1112,5
+CONT01606,C179,French Basics — Lecture 6: Examples,1028,6
+CONT01607,C179,French Basics — Lecture 7: Case Study,1939,7
+CONT01608,C179,French Basics — Lecture 8: Deep Dive,1030,8
+CONT01609,C179,French Basics — Lecture 9: Exercise,986,9
+CONT01610,C179,French Basics — Lecture 10: Summary,1420,10
+CONT01611,C180,Business Management — Lecture 1: Summary,2512,1
+CONT01612,C180,Business Management — Lecture 2: Summary,1575,2
+CONT01613,C180,Business Management — Lecture 3: Deep Dive,3163,3
+CONT01614,C180,Business Management — Lecture 4: Exercise,499,4
+CONT01615,C180,Business Management — Lecture 5: Case Study,987,5
+CONT01616,C180,Business Management — Lecture 6: Examples,2237,6
+CONT01617,C180,Business Management — Lecture 7: Case Study,1372,7
+CONT01618,C180,Business Management — Lecture 8: Overview,1749,8
+CONT01619,C180,Business Management — Lecture 9: Exercise,3251,9
+CONT01620,C181,Algorithms — Lecture 1: Case Study,2175,1
+CONT01621,C181,Algorithms — Lecture 2: Case Study,2414,2
+CONT01622,C181,Algorithms — Lecture 3: Summary,3348,3
+CONT01623,C181,Algorithms — Lecture 4: Examples,3343,4
+CONT01624,C181,Algorithms — Lecture 5: Overview,1760,5
+CONT01625,C181,Algorithms — Lecture 6: Exercise,1830,6
+CONT01626,C181,Algorithms — Lecture 7: Exercise,1208,7
+CONT01627,C181,Algorithms — Lecture 8: Case Study,477,8
+CONT01628,C181,Algorithms — Lecture 9: Summary,3372,9
+CONT01629,C181,Algorithms — Lecture 10: Overview,2412,10
+CONT01630,C181,Algorithms — Lecture 11: Overview,1388,11
+CONT01631,C181,Algorithms — Lecture 12: Deep Dive,2764,12
+CONT01632,C182,Organic Chemistry — Lecture 1: Summary,1648,1
+CONT01633,C182,Organic Chemistry — Lecture 2: Overview,1411,2
+CONT01634,C182,Organic Chemistry — Lecture 3: Deep Dive,2131,3
+CONT01635,C182,Organic Chemistry — Lecture 4: Overview,2957,4
+CONT01636,C182,Organic Chemistry — Lecture 5: Summary,1099,5
+CONT01637,C182,Organic Chemistry — Lecture 6: Summary,828,6
+CONT01638,C182,Organic Chemistry — Lecture 7: Overview,2171,7
+CONT01639,C182,Organic Chemistry — Lecture 8: Overview,3477,8
+CONT01640,C182,Organic Chemistry — Lecture 9: Summary,572,9
+CONT01641,C182,Organic Chemistry — Lecture 10: Overview,1157,10
+CONT01642,C183,Databases — Lecture 1: Case Study,1344,1
+CONT01643,C183,Databases — Lecture 2: Overview,3311,2
+CONT01644,C183,Databases — Lecture 3: Deep Dive,1009,3
+CONT01645,C183,Databases — Lecture 4: Summary,946,4
+CONT01646,C183,Databases — Lecture 5: Overview,2624,5
+CONT01647,C183,Databases — Lecture 6: Exercise,2099,6
+CONT01648,C183,Databases — Lecture 7: Exercise,2229,7
+CONT01649,C184,English Literature — Lecture 1: Summary,809,1
+CONT01650,C184,English Literature — Lecture 2: Deep Dive,1724,2
+CONT01651,C184,English Literature — Lecture 3: Exercise,1878,3
+CONT01652,C184,English Literature — Lecture 4: Exercise,1227,4
+CONT01653,C184,English Literature — Lecture 5: Examples,706,5
+CONT01654,C184,English Literature — Lecture 6: Case Study,2583,6
+CONT01655,C184,English Literature — Lecture 7: Exercise,2483,7
+CONT01656,C184,English Literature — Lecture 8: Overview,464,8
+CONT01657,C184,English Literature — Lecture 9: Case Study,438,9
+CONT01658,C185,Statistics — Lecture 1: Summary,1038,1
+CONT01659,C185,Statistics — Lecture 2: Exercise,3436,2
+CONT01660,C185,Statistics — Lecture 3: Overview,548,3
+CONT01661,C185,Statistics — Lecture 4: Overview,1492,4
+CONT01662,C185,Statistics — Lecture 5: Overview,952,5
+CONT01663,C185,Statistics — Lecture 6: Case Study,1616,6
+CONT01664,C185,Statistics — Lecture 7: Case Study,3590,7
+CONT01665,C185,Statistics — Lecture 8: Case Study,1257,8
+CONT01666,C185,Statistics — Lecture 9: Exercise,412,9
+CONT01667,C185,Statistics — Lecture 10: Summary,1940,10
+CONT01668,C185,Statistics — Lecture 11: Case Study,2706,11
+CONT01669,C186,French Basics — Lecture 1: Summary,3086,1
+CONT01670,C186,French Basics — Lecture 2: Overview,3373,2
+CONT01671,C186,French Basics — Lecture 3: Examples,1877,3
+CONT01672,C186,French Basics — Lecture 4: Exercise,873,4
+CONT01673,C186,French Basics — Lecture 5: Case Study,1904,5
+CONT01674,C186,French Basics — Lecture 6: Exercise,3595,6
+CONT01675,C186,French Basics — Lecture 7: Examples,740,7
+CONT01676,C186,French Basics — Lecture 8: Summary,1508,8
+CONT01677,C186,French Basics — Lecture 9: Summary,2274,9
+CONT01678,C186,French Basics — Lecture 10: Overview,1724,10
+CONT01679,C186,French Basics — Lecture 11: Exercise,1027,11
+CONT01680,C187,World History — Lecture 1: Summary,2427,1
+CONT01681,C187,World History — Lecture 2: Summary,1640,2
+CONT01682,C187,World History — Lecture 3: Deep Dive,1401,3
+CONT01683,C187,World History — Lecture 4: Summary,956,4
+CONT01684,C187,World History — Lecture 5: Exercise,2445,5
+CONT01685,C187,World History — Lecture 6: Exercise,1152,6
+CONT01686,C187,World History — Lecture 7: Exercise,1894,7
+CONT01687,C187,World History — Lecture 8: Overview,899,8
+CONT01688,C187,World History — Lecture 9: Overview,946,9
+CONT01689,C188,Microeconomics — Lecture 1: Case Study,2683,1
+CONT01690,C188,Microeconomics — Lecture 2: Case Study,1404,2
+CONT01691,C188,Microeconomics — Lecture 3: Case Study,2726,3
+CONT01692,C188,Microeconomics — Lecture 4: Case Study,1083,4
+CONT01693,C188,Microeconomics — Lecture 5: Overview,884,5
+CONT01694,C188,Microeconomics — Lecture 6: Overview,3169,6
+CONT01695,C188,Microeconomics — Lecture 7: Deep Dive,661,7
+CONT01696,C188,Microeconomics — Lecture 8: Overview,3002,8
+CONT01697,C189,Cloud Computing — Lecture 1: Deep Dive,2566,1
+CONT01698,C189,Cloud Computing — Lecture 2: Case Study,2987,2
+CONT01699,C189,Cloud Computing — Lecture 3: Examples,2462,3
+CONT01700,C189,Cloud Computing — Lecture 4: Examples,3109,4
+CONT01701,C189,Cloud Computing — Lecture 5: Case Study,520,5
+CONT01702,C189,Cloud Computing — Lecture 6: Summary,3154,6
+CONT01703,C189,Cloud Computing — Lecture 7: Exercise,2219,7
+CONT01704,C189,Cloud Computing — Lecture 8: Summary,1872,8
+CONT01705,C189,Cloud Computing — Lecture 9: Summary,3293,9
+CONT01706,C189,Cloud Computing — Lecture 10: Examples,732,10
+CONT01707,C189,Cloud Computing — Lecture 11: Exercise,2885,11
+CONT01708,C189,Cloud Computing — Lecture 12: Deep Dive,3417,12
+CONT01709,C190,Cell Biology — Lecture 1: Case Study,2298,1
+CONT01710,C190,Cell Biology — Lecture 2: Case Study,1438,2
+CONT01711,C190,Cell Biology — Lecture 3: Deep Dive,2465,3
+CONT01712,C190,Cell Biology — Lecture 4: Deep Dive,1767,4
+CONT01713,C190,Cell Biology — Lecture 5: Deep Dive,788,5
+CONT01714,C190,Cell Biology — Lecture 6: Deep Dive,1408,6
+CONT01715,C190,Cell Biology — Lecture 7: Summary,2750,7
+CONT01716,C190,Cell Biology — Lecture 8: Case Study,734,8
+CONT01717,C190,Cell Biology — Lecture 9: Summary,2497,9
+CONT01718,C190,Cell Biology — Lecture 10: Exercise,935,10
+CONT01719,C191,Marketing 101 — Lecture 1: Examples,3264,1
+CONT01720,C191,Marketing 101 — Lecture 2: Case Study,1851,2
+CONT01721,C191,Marketing 101 — Lecture 3: Deep Dive,1252,3
+CONT01722,C191,Marketing 101 — Lecture 4: Case Study,2607,4
+CONT01723,C191,Marketing 101 — Lecture 5: Deep Dive,752,5
+CONT01724,C191,Marketing 101 — Lecture 6: Summary,699,6
+CONT01725,C191,Marketing 101 — Lecture 7: Exercise,1266,7
+CONT01726,C191,Marketing 101 — Lecture 8: Examples,2343,8
+CONT01727,C191,Marketing 101 — Lecture 9: Case Study,771,9
+CONT01728,C192,Spanish Basics — Lecture 1: Exercise,395,1
+CONT01729,C192,Spanish Basics — Lecture 2: Case Study,2961,2
+CONT01730,C192,Spanish Basics — Lecture 3: Examples,1575,3
+CONT01731,C192,Spanish Basics — Lecture 4: Overview,2930,4
+CONT01732,C192,Spanish Basics — Lecture 5: Case Study,656,5
+CONT01733,C192,Spanish Basics — Lecture 6: Summary,1274,6
+CONT01734,C192,Spanish Basics — Lecture 7: Summary,1481,7
+CONT01735,C192,Spanish Basics — Lecture 8: Overview,2761,8
+CONT01736,C192,Spanish Basics — Lecture 9: Summary,991,9
+CONT01737,C192,Spanish Basics — Lecture 10: Overview,3042,10
+CONT01738,C193,Cloud Computing — Lecture 1: Summary,2620,1
+CONT01739,C193,Cloud Computing — Lecture 2: Examples,3473,2
+CONT01740,C193,Cloud Computing — Lecture 3: Deep Dive,3509,3
+CONT01741,C193,Cloud Computing — Lecture 4: Overview,1876,4
+CONT01742,C193,Cloud Computing — Lecture 5: Examples,2855,5
+CONT01743,C193,Cloud Computing — Lecture 6: Deep Dive,556,6
+CONT01744,C193,Cloud Computing — Lecture 7: Deep Dive,2959,7
+CONT01745,C193,Cloud Computing — Lecture 8: Overview,1420,8
+CONT01746,C193,Cloud Computing — Lecture 9: Exercise,2949,9
+CONT01747,C193,Cloud Computing — Lecture 10: Exercise,2351,10
+CONT01748,C193,Cloud Computing — Lecture 11: Exercise,2284,11
+CONT01749,C193,Cloud Computing — Lecture 12: Overview,444,12
+CONT01750,C194,Network Fundamentals — Lecture 1: Examples,1355,1
+CONT01751,C194,Network Fundamentals — Lecture 2: Overview,660,2
+CONT01752,C194,Network Fundamentals — Lecture 3: Deep Dive,1624,3
+CONT01753,C194,Network Fundamentals — Lecture 4: Examples,2644,4
+CONT01754,C194,Network Fundamentals — Lecture 5: Summary,1861,5
+CONT01755,C194,Network Fundamentals — Lecture 6: Case Study,384,6
+CONT01756,C194,Network Fundamentals — Lecture 7: Overview,902,7
+CONT01757,C194,Network Fundamentals — Lecture 8: Case Study,1621,8
+CONT01758,C194,Network Fundamentals — Lecture 9: Examples,1346,9
+CONT01759,C195,Human-Computer Interaction — Lecture 1: Summary,3070,1
+CONT01760,C195,Human-Computer Interaction — Lecture 2: Deep Dive,2920,2
+CONT01761,C195,Human-Computer Interaction — Lecture 3: Examples,2559,3
+CONT01762,C195,Human-Computer Interaction — Lecture 4: Case Study,2377,4
+CONT01763,C195,Human-Computer Interaction — Lecture 5: Deep Dive,2807,5
+CONT01764,C195,Human-Computer Interaction — Lecture 6: Case Study,2485,6
+CONT01765,C195,Human-Computer Interaction — Lecture 7: Overview,2569,7
+CONT01766,C195,Human-Computer Interaction — Lecture 8: Overview,2802,8
+CONT01767,C195,Human-Computer Interaction — Lecture 9: Deep Dive,1055,9
+CONT01768,C195,Human-Computer Interaction — Lecture 10: Overview,1251,10
+CONT01769,C196,Digital Marketing — Lecture 1: Exercise,659,1
+CONT01770,C196,Digital Marketing — Lecture 2: Examples,2177,2
+CONT01771,C196,Digital Marketing — Lecture 3: Exercise,996,3
+CONT01772,C196,Digital Marketing — Lecture 4: Deep Dive,3578,4
+CONT01773,C196,Digital Marketing — Lecture 5: Deep Dive,1284,5
+CONT01774,C196,Digital Marketing — Lecture 6: Examples,3187,6
+CONT01775,C196,Digital Marketing — Lecture 7: Deep Dive,2257,7
+CONT01776,C197,NLP Fundamentals — Lecture 1: Deep Dive,2883,1
+CONT01777,C197,NLP Fundamentals — Lecture 2: Exercise,1780,2
+CONT01778,C197,NLP Fundamentals — Lecture 3: Summary,2302,3
+CONT01779,C197,NLP Fundamentals — Lecture 4: Overview,355,4
+CONT01780,C197,NLP Fundamentals — Lecture 5: Deep Dive,3350,5
+CONT01781,C197,NLP Fundamentals — Lecture 6: Summary,2863,6
+CONT01782,C197,NLP Fundamentals — Lecture 7: Summary,1081,7
+CONT01783,C197,NLP Fundamentals — Lecture 8: Summary,2143,8
+CONT01784,C197,NLP Fundamentals — Lecture 9: Case Study,887,9
+CONT01785,C197,NLP Fundamentals — Lecture 10: Exercise,1034,10
+CONT01786,C197,NLP Fundamentals — Lecture 11: Case Study,774,11
+CONT01787,C198,Thermodynamics — Lecture 1: Summary,1625,1
+CONT01788,C198,Thermodynamics — Lecture 2: Exercise,3560,2
+CONT01789,C198,Thermodynamics — Lecture 3: Summary,2390,3
+CONT01790,C198,Thermodynamics — Lecture 4: Overview,2602,4
+CONT01791,C198,Thermodynamics — Lecture 5: Examples,3146,5
+CONT01792,C198,Thermodynamics — Lecture 6: Summary,3411,6
+CONT01793,C198,Thermodynamics — Lecture 7: Exercise,338,7
+CONT01794,C198,Thermodynamics — Lecture 8: Deep Dive,1535,8
+CONT01795,C198,Thermodynamics — Lecture 9: Overview,3255,9
+CONT01796,C198,Thermodynamics — Lecture 10: Examples,1348,10
+CONT01797,C198,Thermodynamics — Lecture 11: Deep Dive,872,11
+CONT01798,C198,Thermodynamics — Lecture 12: Overview,2281,12
+CONT01799,C199,Calculus I — Lecture 1: Case Study,1687,1
+CONT01800,C199,Calculus I — Lecture 2: Overview,769,2
+CONT01801,C199,Calculus I — Lecture 3: Deep Dive,2915,3
+CONT01802,C199,Calculus I — Lecture 4: Examples,2706,4
+CONT01803,C199,Calculus I — Lecture 5: Exercise,2254,5
+CONT01804,C199,Calculus I — Lecture 6: Overview,591,6
+CONT01805,C199,Calculus I — Lecture 7: Case Study,1248,7
+CONT01806,C199,Calculus I — Lecture 8: Summary,2286,8
+CONT01807,C200,Thermodynamics — Lecture 1: Case Study,3218,1
+CONT01808,C200,Thermodynamics — Lecture 2: Deep Dive,2775,2
+CONT01809,C200,Thermodynamics — Lecture 3: Summary,682,3
+CONT01810,C200,Thermodynamics — Lecture 4: Summary,2138,4
+CONT01811,C200,Thermodynamics — Lecture 5: Examples,2485,5
+CONT01812,C200,Thermodynamics — Lecture 6: Examples,509,6
+CONT01813,C200,Thermodynamics — Lecture 7: Deep Dive,2526,7
+CONT01814,C200,Thermodynamics — Lecture 8: Summary,2309,8
+CONT01815,C200,Thermodynamics — Lecture 9: Summary,2983,9
+CONT01816,C200,Thermodynamics — Lecture 10: Exercise,632,10

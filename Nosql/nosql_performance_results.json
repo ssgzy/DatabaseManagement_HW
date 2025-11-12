@@ -1,0 +1,50 @@
+{
+  "/courses/ratings": {
+    "endpoint": "/courses/ratings",
+    "avg_time": 2.0591469526290895,
+    "min_time": 2.0462465286254883,
+    "max_time": 2.071951389312744,
+    "std_dev": 0.0077534040507433915,
+    "success_rate": 1.0
+  },
+  "/courses/top-rated": {
+    "endpoint": "/courses/top-rated",
+    "avg_time": 2.0518402814865113,
+    "min_time": 2.0420665740966797,
+    "max_time": 2.061431884765625,
+    "std_dev": 0.007283489055367846,
+    "success_rate": 1.0
+  },
+  "/users/most-active": {
+    "endpoint": "/users/most-active",
+    "avg_time": 2.052047371864319,
+    "min_time": 2.0435314178466797,
+    "max_time": 2.062479257583618,
+    "std_dev": 0.0074968427629386524,
+    "success_rate": 1.0
+  },
+  "/ratings/monthly-trend": {
+    "endpoint": "/ratings/monthly-trend",
+    "avg_time": 2.0613167762756346,
+    "min_time": 2.047671318054199,
+    "max_time": 2.072610378265381,
+    "std_dev": 0.0069244583423044405,
+    "success_rate": 1.0
+  },
+  "/events/stats": {
+    "endpoint": "/events/stats",
+    "avg_time": 2.0554949045181274,
+    "min_time": 2.0359444618225098,
+    "max_time": 2.0769431591033936,
+    "std_dev": 0.012132040389796258,
+    "success_rate": 1.0
+  },
+  "/content/course-stats": {
+    "endpoint": "/content/course-stats",
+    "avg_time": 2.042442297935486,
+    "min_time": 2.029869556427002,
+    "max_time": 2.0571861267089844,
+    "std_dev": 0.009456803893661343,
+    "success_rate": 1.0
+  }
+}
